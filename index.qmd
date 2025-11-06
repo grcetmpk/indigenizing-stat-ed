@@ -2,3 +2,4 @@
 title: "Indigenizing Undergraduate Statistics and Data Science Courses in an Organic and Appropriate Way"
 ---
 
+
