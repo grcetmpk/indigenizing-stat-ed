@@ -1,0 +1,19 @@
+---
+title: "Types of Data"
+listing:
+  - id: tod
+    max-description-length: 500
+    image-height: 150px
+    fields: [title, description]
+    contents: 
+      - categoricaldata
+      - oraltraditions
+    type: grid
+    grid-item-border: true
+    sort: false
+---
+
+The following modules can be integrated into lectures involving discussions around the types of data we encounter in practice:
+
+::: {#tod}
+:::

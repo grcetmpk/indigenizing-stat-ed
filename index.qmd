@@ -2,15 +2,19 @@
 title: "Indigenizing Statistics and Data Science Education"
 ---
 
-Welcome to the launchpad of ***Indigenizing Statistics and Data Science Education*** (ISDSE). This is a hub for educators in the fields of Statistics and Data Science to learn about how they can incorporate indigenous topics into their classrooms in a way that is **organic** and **appropriate.**
+**This website and its contents are a work in progress!**
+
+![](images/wip.png){fig-align="center"}
+
+Welcome to the launchpad of ***Indigenizing Statistics and Data Science Education*** (ISDSE). This is a hub for educators in the fields of Statistics and Data Science to learn about how they can incorporate Indigenous topics into their classrooms in a way that is **organic** and **appropriate.**
 
 We will be providing tools that will allow educators to confidently and appropriately do the following:
 
-1.  Incorporate Indigenous knowledge into the current curricula
+1.  Incorporate Indigenous knowledge into their current curricula
 
 2.  Facilitate discussions on the impact of data on Indigenous communities
 
-3.  Appropriately use Indigenous data
+3.  Appropriately use Indigenous data in classroom examples
 
 Modules are create for various statistical topics, so that they can be used across a variety of courses and levels.
 

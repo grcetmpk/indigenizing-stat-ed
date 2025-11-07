@@ -1,0 +1,38 @@
+---
+title: "Data Sovereignty"
+format: html
+bibliography: ../../../ISDSE.bib
+---
+
+## Background
+
+When talking about data collection, storage, and/or uses, we often talk about health data and being careful with *personal identifying information* (PII). Including conversations around *Indigenous Data Sovereignty* (IDS) is a natural extension that could easily be included in lectures for this topic.
+
+### What is Indigenous Data Sovereignty?
+
+**IDS is the idea that Indigenous Peoples have the right to own and control how their data are collected, managed and used** [@andersen_2025]. IDS came from Indigenous demands for the rights to their own data, and from campaigns from these communities against the harmful use of existing Indigenous data [@andersen_2025].
+
+Early Indigenous oral traditions included a complex set of rights and responsibilities concerning its use. [@kukutai_2016]. This is often regarded as an early expression of IDS.
+
+Much like their land and territories, Indigenous Peoples want control and sovereignty over the data that has (and/or will be) collected on them [@kukutai_2016]. This is particularly relevant in the age of "open data", where issues relating to data consent, use, ownership, and storage have increased in complexity [@kukutai_2016]. While data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples [@kukutai_2016].
+
+### IDS and Colonization
+
+Colonization is the act of settling among and establishing control over Indigenous land and Peoples. To many, data may be seen through a colonial context as something that, too, has been taken [@rodriguez_2016].
+
+Data on Indigenous Peoples has long been used as a weapon against them. @andersen_2025 writes:
+
+> "The violence of colonial data collection was a key strategy through which colonial authorities attempted to wrest control of Indigenous lands, lives, governing systems and collective identities. Statistical logics, classifications and taxonomies were key elements of the epistemology of colonization. Colonial officials in \[Canada, Australia, New Zealand, and the United States\] were endlessly fascinated with the apparent power of quantitative data to “order” and “explain” \[Indigenous Peoples\]'"
+
+## Lecture Content
+
+-   When talking about data management, **explicitly define Indigenous Data Sovereignty**
+
+-   Talk about the historical misuse of data on Indigenous Peoples, and the impacts of studies on their (and other marginalized) communities
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::

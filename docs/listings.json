@@ -1,0 +1,27 @@
+[
+  {
+    "listing": "/topics/collectingstoringusingdata/collectingstoringusingdata.html",
+    "items": [
+      "/topics/collectingstoringusingdata/datasov/datasov.html"
+    ]
+  },
+  {
+    "listing": "/topics/ethics/ethics.html",
+    "items": [
+      "/topics/ethics/unethicalstudies/unethicalstudies.html"
+    ]
+  },
+  {
+    "listing": "/topics/researchmethods/researchmethods.html",
+    "items": [
+      "/topics/researchmethods/ppdac/ppdac.html"
+    ]
+  },
+  {
+    "listing": "/topics/datatypes/datatypes.html",
+    "items": [
+      "/topics/datatypes/categoricaldata/categoricaldata.html",
+      "/topics/datatypes/oraltraditions/oraltraditions.html"
+    ]
+  }
+]

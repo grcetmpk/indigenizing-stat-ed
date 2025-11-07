@@ -1,0 +1,16 @@
+---
+title: "Contributors"
+format: html
+---
+
+[**Grace Tompkins**](https://grcetmpk.github.io/)
+
+This project was created by Dr. Grace Tompkins, Assistant Professor of Teaching at the University of British Columbia, situated on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam) people. She is a settler from Mi'kma'ki (Nova Scotia) who is passionate about inclusive education.
+
+------------------------------------------------------------------------
+
+Thank you to the following people who consulted on this project and provided resources:
+
+-   Samantha Nock (Indigenous Initiatives, CTLT)
+
+-   Karleen Delaurier-Lyle ([X]{.underline}wi7[x]{.underline}wa Librarian)

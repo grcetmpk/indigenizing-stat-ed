@@ -1,0 +1,21 @@
+---
+title: "Racial Bias"
+format: html
+bibliography: ../../../ISDSE.bib
+---
+
+## Background
+
+
+
+
+## Lecture Content
+
+-   
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::

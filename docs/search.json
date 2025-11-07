@@ -1,16 +1,126 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "topics/collectingstoringusingdata/collectingstoringusingdata.html",
+    "href": "topics/collectingstoringusingdata/collectingstoringusingdata.html",
+    "title": "Collecting, Storing, and Using Data",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "The following modules can be integrated into lectures involving the collection, storing, or using (analyzing) of data:\n\n\n\n\n\n\n\nData Sovereignty\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Collecting, Storing, and Using Data"
+    ]
+  },
+  {
+    "objectID": "topics/ethics/ethics.html",
+    "href": "topics/ethics/ethics.html",
+    "title": "Ethics",
+    "section": "",
+    "text": "The following modules can be integrated into lectures involving discussions around the ethics:\n\n\n\n\n\n\n\nUnethical Studies Involving Indigenous Data\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Ethics"
+    ]
+  },
+  {
+    "objectID": "topics/machinelearning/bigdata/bigdata.html#lecture-content",
+    "href": "topics/machinelearning/bigdata/bigdata.html#lecture-content",
+    "title": "Big Data",
+    "section": "Lecture Content",
+    "text": "Lecture Content\n\n\n\n\n\nReferences"
+  },
+  {
+    "objectID": "topics/datatypes/categoricaldata/categoricaldata.html#lecture-content",
+    "href": "topics/datatypes/categoricaldata/categoricaldata.html#lecture-content",
+    "title": "Categorical Data",
+    "section": "Lecture Content",
+    "text": "Lecture Content\n\n\n\n\n\nReferences"
+  },
+  {
+    "objectID": "topics/researchmethods/ppdac/ppdac.html#lecture-content",
+    "href": "topics/researchmethods/ppdac/ppdac.html#lecture-content",
+    "title": "PPDAC",
+    "section": "Lecture Content",
+    "text": "Lecture Content\n\n\n\n\n\nReferences"
+  },
+  {
+    "objectID": "topics/researchmethods/indigenousmethods/indigenousmethods.html#lecture-content",
+    "href": "topics/researchmethods/indigenousmethods/indigenousmethods.html#lecture-content",
+    "title": "Indigenous Research Methods",
+    "section": "Lecture Content",
+    "text": "Lecture Content\n\n\n\n\n\nReferences"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Indigenizing Statistics and Data Science Education",
     "section": "",
-    "text": "Welcome to the launchpad of Indigenizing Statistics and Data Science Education (ISDSE). This is a hub for educators in the fields of Statistics and Data Science to learn about how they can incorporate indigenous topics into their classrooms in a way that is organic and appropriate.\nWe will be providing tools that will allow educators to confidently and appropriately do the following:\n\nIncorporate Indigenous knowledge into the current curricula\nFacilitate discussions on the impact of data on Indigenous communities\nAppropriately use Indigenous data\n\nModules are create for various statistical topics, so that they can be used across a variety of courses and levels.\nThis work is done in consultation with the Xwi7xqa Library at the University of British Columbia."
+    "text": "This website and its contents are a work in progress!\n\n\n\n\n\nWelcome to the launchpad of Indigenizing Statistics and Data Science Education (ISDSE). This is a hub for educators in the fields of Statistics and Data Science to learn about how they can incorporate Indigenous topics into their classrooms in a way that is organic and appropriate.\nWe will be providing tools that will allow educators to confidently and appropriately do the following:\n\nIncorporate Indigenous knowledge into their current curricula\nFacilitate discussions on the impact of data on Indigenous communities\nAppropriately use Indigenous data in classroom examples\n\nModules are create for various statistical topics, so that they can be used across a variety of courses and levels.\nThis work is done in consultation with the Xwi7xqa Library at the University of British Columbia."
+  },
+  {
+    "objectID": "contributors.html",
+    "href": "contributors.html",
+    "title": "Contributors",
+    "section": "",
+    "text": "Grace Tompkins\nThis project was created by Dr. Grace Tompkins, Assistant Professor of Teaching at the University of British Columbia, situated on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam) people. She is a settler from Mi’kma’ki (Nova Scotia) who is passionate about inclusive education.\n\nThank you to the following people who consulted on this project and provided resources:\n\nSamantha Nock (Indigenous Initiatives, CTLT)\nKarleen Delaurier-Lyle (Xwi7xwa Librarian)"
+  },
+  {
+    "objectID": "topics/researchmethods/researchmethods.html",
+    "href": "topics/researchmethods/researchmethods.html",
+    "title": "Research Methods",
+    "section": "",
+    "text": "The following modules can be integrated into lectures involving discussions around research methods:\n\n\n\n\n\n\n\nPPDAC\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Research Methods"
+    ]
+  },
+  {
+    "objectID": "topics/datatypes/oraltraditions/oraltraditions.html#lecture-content",
+    "href": "topics/datatypes/oraltraditions/oraltraditions.html#lecture-content",
+    "title": "Oral Traditions",
+    "section": "Lecture Content",
+    "text": "Lecture Content\n\n\n\n\n\nReferences"
+  },
+  {
+    "objectID": "topics/datatypes/datatypes.html",
+    "href": "topics/datatypes/datatypes.html",
+    "title": "Types of Data",
+    "section": "",
+    "text": "The following modules can be integrated into lectures involving discussions around the types of data we encounter in practice:\n\n\n\n\n\n\n\nCategorical Data\n\n\n\n\n\n\n\n\n\n\n\n\n\nOral Traditions\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Types of Data"
+    ]
+  },
+  {
+    "objectID": "topics/machinelearning/racialbias/racialbias.html#lecture-content",
+    "href": "topics/machinelearning/racialbias/racialbias.html#lecture-content",
+    "title": "Racial Bias",
+    "section": "Lecture Content",
+    "text": "Lecture Content\n\n\n\n\n\nReferences"
+  },
+  {
+    "objectID": "topics/ethics/unethicalstudies/unethicalstudies.html#lecture-content",
+    "href": "topics/ethics/unethicalstudies/unethicalstudies.html#lecture-content",
+    "title": "Unethical Studies Involving Indigenous Data",
+    "section": "Lecture Content",
+    "text": "Lecture Content\n\n\n\n\n\nReferences"
+  },
+  {
+    "objectID": "topics/collectingstoringusingdata/datasov/datasov.html",
+    "href": "topics/collectingstoringusingdata/datasov/datasov.html",
+    "title": "Data Sovereignty",
+    "section": "",
+    "text": "When talking about data collection, storage, and/or uses, we often talk about health data and being careful with personal identifying information (PII). Including conversations around Indigenous Data Sovereignty (IDS) is a natural extension that could easily be included in lectures for this topic.\n\n\nIDS is the idea that Indigenous Peoples have the right to own and control how their data are collected, managed and used (Andersen et al. 2025). IDS came from Indigenous demands for the rights to their own data, and from campaigns from these communities against the harmful use of existing Indigenous data (Andersen et al. 2025).\nEarly Indigenous oral traditions included a complex set of rights and responsibilities concerning its use. (Kukutai and Taylor 2016). This is often regarded as an early expression of IDS.\nMuch like their land and territories, Indigenous Peoples want control and sovereignty over the data that has (and/or will be) collected on them (Kukutai and Taylor 2016). This is particularly relevant in the age of “open data”, where issues relating to data consent, use, ownership, and storage have increased in complexity (Kukutai and Taylor 2016). While data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples (Kukutai and Taylor 2016).\n\n\n\nColonization is the act of settling among and establishing control over Indigenous land and Peoples. To many, data may be seen through a colonial context as something that, too, has been taken (Rodriguez-Lonebear 2016).\nData on Indigenous Peoples has long been used as a weapon against them. Andersen et al. (2025) writes:\n\n“The violence of colonial data collection was a key strategy through which colonial authorities attempted to wrest control of Indigenous lands, lives, governing systems and collective identities. Statistical logics, classifications and taxonomies were key elements of the epistemology of colonization. Colonial officials in [Canada, Australia, New Zealand, and the United States] were endlessly fascinated with the apparent power of quantitative data to “order” and “explain” [Indigenous Peoples]’”"
+  },
+  {
+    "objectID": "topics/collectingstoringusingdata/datasov/datasov.html#background",
+    "href": "topics/collectingstoringusingdata/datasov/datasov.html#background",
+    "title": "Data Sovereignty",
+    "section": "",
+    "text": "When talking about data collection, storage, and/or uses, we often talk about health data and being careful with personal identifying information (PII). Including conversations around Indigenous Data Sovereignty (IDS) is a natural extension that could easily be included in lectures for this topic.\n\n\nIDS is the idea that Indigenous Peoples have the right to own and control how their data are collected, managed and used (Andersen et al. 2025). IDS came from Indigenous demands for the rights to their own data, and from campaigns from these communities against the harmful use of existing Indigenous data (Andersen et al. 2025).\nEarly Indigenous oral traditions included a complex set of rights and responsibilities concerning its use. (Kukutai and Taylor 2016). This is often regarded as an early expression of IDS.\nMuch like their land and territories, Indigenous Peoples want control and sovereignty over the data that has (and/or will be) collected on them (Kukutai and Taylor 2016). This is particularly relevant in the age of “open data”, where issues relating to data consent, use, ownership, and storage have increased in complexity (Kukutai and Taylor 2016). While data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples (Kukutai and Taylor 2016).\n\n\n\nColonization is the act of settling among and establishing control over Indigenous land and Peoples. To many, data may be seen through a colonial context as something that, too, has been taken (Rodriguez-Lonebear 2016).\nData on Indigenous Peoples has long been used as a weapon against them. Andersen et al. (2025) writes:\n\n“The violence of colonial data collection was a key strategy through which colonial authorities attempted to wrest control of Indigenous lands, lives, governing systems and collective identities. Statistical logics, classifications and taxonomies were key elements of the epistemology of colonization. Colonial officials in [Canada, Australia, New Zealand, and the United States] were endlessly fascinated with the apparent power of quantitative data to “order” and “explain” [Indigenous Peoples]’”"
+  },
+  {
+    "objectID": "topics/collectingstoringusingdata/datasov/datasov.html#lecture-content",
+    "href": "topics/collectingstoringusingdata/datasov/datasov.html#lecture-content",
+    "title": "Data Sovereignty",
+    "section": "Lecture Content",
+    "text": "Lecture Content\n\nWhen talking about data management, explicitly define Indigenous Data Sovereignty\nTalk about the historical misuse of data on Indigenous Peoples, and the impacts of studies on their (and other marginalized) communities\n\n\n\nReferences\n\n\nAndersen, C., M. Walter, T. Kukutai, and C. Gabel. 2025. Indigenous Statistics. 2nd ed. From Data Deficits to Data Sovereignty. Routledge. https://doi.org/10.4324/9781003173342.\n\n\nKukutai, Tahu, and John Taylor. 2016. Indigenous Data Sovereignty: Toward an Agenda. ANU press.\n\n\nRodriguez-Lonebear, Desi. 2016. “Building a Data Revolution in Indian Country.” Indigenous Data Sovereignty: Toward an Agenda 14: 253–72."
   }
 ]

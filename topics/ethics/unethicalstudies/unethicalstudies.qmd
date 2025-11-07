@@ -1,0 +1,20 @@
+---
+title: "Unethical Studies Involving Indigenous Data"
+format: html
+bibliography: ../../../ISDSE.bib
+---
+
+## Background
+
+
+
+## Lecture Content
+
+-   
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::

@@ -1,0 +1,18 @@
+---
+title: "Collecting, Storing, and Using Data"
+listing:
+  - id: csu
+    max-description-length: 500
+    image-height: 150px
+    fields: [title, description]
+    contents: 
+      - datasov
+    type: grid
+    grid-item-border: true
+    sort: false
+---
+
+The following modules can be integrated into lectures involving the collection, storing, or using (analyzing) of data: 
+
+::: {#csu}
+:::

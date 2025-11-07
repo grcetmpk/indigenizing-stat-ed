@@ -3,12 +3,31 @@ project:
   output-dir: docs
 
 website:
-  title: "ISDS"
+  title: "ISDSE"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - sidebar:topics
+      - contributors.qmd
+    
+    right:
+      - href: "https://github.com/UBC-STAT/STAT545.github.io"
+        icon: github
+
+
+
+  sidebar:
+    - id: topics
+      title: "Topics"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents: 
+        - topics/collectingstoringusingdata/collectingstoringusingdata.qmd
+        - topics/datatypes/datatypes.qmd
+        - topics/ethics/ethics.qmd
+        - topics/researchmethods/researchmethods.qmd
 
 format:
   html:

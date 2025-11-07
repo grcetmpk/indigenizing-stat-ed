@@ -1,0 +1,18 @@
+---
+title: "Research Methods"
+listing:
+  - id: rm
+    max-description-length: 500
+    image-height: 150px
+    fields: [title, description]
+    contents: 
+      - ppdac
+    type: grid
+    grid-item-border: true
+    sort: false
+---
+
+The following modules can be integrated into lectures involving discussions around research methods:
+
+::: {#rm}
+:::

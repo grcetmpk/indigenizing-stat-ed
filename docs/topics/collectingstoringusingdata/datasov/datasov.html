@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Indigenizing Statistics and Data Science Education – ISDSE</title>
+<title>Data Sovereignty – ISDSE</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,25 +20,45 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-5f91a1a763e9ad99efc2f5c6a66d9689.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap-5f91a1a763e9ad99efc2f5c6a66d9689.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,7 +88,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -78,7 +98,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../../index.html">
     <span class="navbar-title">ISDSE</span>
     </a>
   </div>
@@ -89,7 +109,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -98,25 +118,25 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-topics">    
         <li>
-    <a class="dropdown-item" href="./topics/collectingstoringusingdata/collectingstoringusingdata.html">
+    <a class="dropdown-item" href="../../../topics/collectingstoringusingdata/collectingstoringusingdata.html">
  <span class="dropdown-text">Collecting, Storing, and Using Data</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./topics/datatypes/datatypes.html">
+    <a class="dropdown-item" href="../../../topics/datatypes/datatypes.html">
  <span class="dropdown-text">Types of Data</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./topics/ethics/ethics.html">
+    <a class="dropdown-item" href="../../../topics/ethics/ethics.html">
  <span class="dropdown-text">Ethics</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./topics/researchmethods/researchmethods.html">
+    <a class="dropdown-item" href="../../../topics/researchmethods/researchmethods.html">
  <span class="dropdown-text">Research Methods</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./contributors.html"> 
+    <a class="nav-link" href="../../../contributors.html"> 
 <span class="menu-text">Contributors</span></a>
   </li>  
 </ul>
@@ -137,15 +157,29 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#background" id="toc-background" class="nav-link active" data-scroll-target="#background">Background</a>
+  <ul class="collapse">
+  <li><a href="#what-is-indigenous-data-sovereignty" id="toc-what-is-indigenous-data-sovereignty" class="nav-link" data-scroll-target="#what-is-indigenous-data-sovereignty">What is Indigenous Data Sovereignty?</a></li>
+  <li><a href="#ids-and-colonization" id="toc-ids-and-colonization" class="nav-link" data-scroll-target="#ids-and-colonization">IDS and Colonization</a></li>
+  </ul></li>
+  <li><a href="#lecture-content" id="toc-lecture-content" class="nav-link" data-scroll-target="#lecture-content">Lecture Content</a>
+  <ul class="collapse">
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Indigenizing Statistics and Data Science Education</h1>
+<h1 class="title">Data Sovereignty</h1>
 </div>
 
 
@@ -162,23 +196,48 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><strong>This website and its contents are a work in progress!</strong></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/wip.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
-</figure>
+<section id="background" class="level2">
+<h2 class="anchored" data-anchor-id="background">Background</h2>
+<p>When talking about data collection, storage, and/or uses, we often talk about health data and being careful with <em>personal identifying information</em> (PII). Including conversations around <em>Indigenous Data Sovereignty</em> (IDS) is a natural extension that could easily be included in lectures for this topic.</p>
+<section id="what-is-indigenous-data-sovereignty" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-indigenous-data-sovereignty">What is Indigenous Data Sovereignty?</h3>
+<p><strong>IDS is the idea that Indigenous Peoples have the right to own and control how their data are collected, managed and used</strong> <span class="citation" data-cites="andersen_2025">(<a href="#ref-andersen_2025" role="doc-biblioref">Andersen et al. 2025</a>)</span>. IDS came from Indigenous demands for the rights to their own data, and from campaigns from these communities against the harmful use of existing Indigenous data <span class="citation" data-cites="andersen_2025">(<a href="#ref-andersen_2025" role="doc-biblioref">Andersen et al. 2025</a>)</span>.</p>
+<p>Early Indigenous oral traditions included a complex set of rights and responsibilities concerning its use. <span class="citation" data-cites="kukutai_2016">(<a href="#ref-kukutai_2016" role="doc-biblioref">Kukutai and Taylor 2016</a>)</span>. This is often regarded as an early expression of IDS.</p>
+<p>Much like their land and territories, Indigenous Peoples want control and sovereignty over the data that has (and/or will be) collected on them <span class="citation" data-cites="kukutai_2016">(<a href="#ref-kukutai_2016" role="doc-biblioref">Kukutai and Taylor 2016</a>)</span>. This is particularly relevant in the age of “open data”, where issues relating to data consent, use, ownership, and storage have increased in complexity <span class="citation" data-cites="kukutai_2016">(<a href="#ref-kukutai_2016" role="doc-biblioref">Kukutai and Taylor 2016</a>)</span>. While data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples <span class="citation" data-cites="kukutai_2016">(<a href="#ref-kukutai_2016" role="doc-biblioref">Kukutai and Taylor 2016</a>)</span>.</p>
+</section>
+<section id="ids-and-colonization" class="level3">
+<h3 class="anchored" data-anchor-id="ids-and-colonization">IDS and Colonization</h3>
+<p>Colonization is the act of settling among and establishing control over Indigenous land and Peoples. To many, data may be seen through a colonial context as something that, too, has been taken <span class="citation" data-cites="rodriguez_2016">(<a href="#ref-rodriguez_2016" role="doc-biblioref">Rodriguez-Lonebear 2016</a>)</span>.</p>
+<p>Data on Indigenous Peoples has long been used as a weapon against them. <span class="citation" data-cites="andersen_2025">Andersen et al. (<a href="#ref-andersen_2025" role="doc-biblioref">2025</a>)</span> writes:</p>
+<blockquote class="blockquote">
+<p>“The violence of colonial data collection was a key strategy through which colonial authorities attempted to wrest control of Indigenous lands, lives, governing systems and collective identities. Statistical logics, classifications and taxonomies were key elements of the epistemology of colonization. Colonial officials in [Canada, Australia, New Zealand, and the United States] were endlessly fascinated with the apparent power of quantitative data to “order” and “explain” [Indigenous Peoples]’”</p>
+</blockquote>
+</section>
+</section>
+<section id="lecture-content" class="level2">
+<h2 class="anchored" data-anchor-id="lecture-content">Lecture Content</h2>
+<ul>
+<li><p>When talking about data management, <strong>explicitly define Indigenous Data Sovereignty</strong></p></li>
+<li><p>Talk about the historical misuse of data on Indigenous Peoples, and the impacts of studies on their (and other marginalized) communities</p></li>
+</ul>
+<hr>
+<section id="references" class="level3">
+<h3 class="anchored" data-anchor-id="references">References</h3>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-andersen_2025" class="csl-entry" role="listitem">
+Andersen, C., M. Walter, T. Kukutai, and C. Gabel. 2025. <em>Indigenous <span>Statistics</span></em>. 2nd ed. From <span>Data</span> <span>Deficits</span> to <span>Data</span> <span>Sovereignty</span>. Routledge. <a href="https://doi.org/10.4324/9781003173342">https://doi.org/10.4324/9781003173342</a>.
 </div>
-<p>Welcome to the launchpad of <strong><em>Indigenizing Statistics and Data Science Education</em></strong> (ISDSE). This is a hub for educators in the fields of Statistics and Data Science to learn about how they can incorporate Indigenous topics into their classrooms in a way that is <strong>organic</strong> and <strong>appropriate.</strong></p>
-<p>We will be providing tools that will allow educators to confidently and appropriately do the following:</p>
-<ol type="1">
-<li><p>Incorporate Indigenous knowledge into their current curricula</p></li>
-<li><p>Facilitate discussions on the impact of data on Indigenous communities</p></li>
-<li><p>Appropriately use Indigenous data in classroom examples</p></li>
-</ol>
-<p>Modules are create for various statistical topics, so that they can be used across a variety of courses and levels.</p>
-<p>This work is done in consultation with the <a href="https://xwi7xwa.library.ubc.ca/">Xwi7xqa Library</a> at the University of British Columbia.</p>
+<div id="ref-kukutai_2016" class="csl-entry" role="listitem">
+Kukutai, Tahu, and John Taylor. 2016. <em>Indigenous Data Sovereignty: <span>Toward</span> an Agenda</em>. ANU press.
+</div>
+<div id="ref-rodriguez_2016" class="csl-entry" role="listitem">
+Rodriguez-Lonebear, Desi. 2016. <span>“Building a Data Revolution in Indian Country.”</span> <em>Indigenous Data Sovereignty: Toward an Agenda</em> 14: 253–72.
+</div>
+</div>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

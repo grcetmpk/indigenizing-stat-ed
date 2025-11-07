@@ -1,0 +1,18 @@
+---
+title: "Ethics"
+listing:
+  - id: eth
+    max-description-length: 500
+    image-height: 150px
+    fields: [title, description]
+    contents: 
+      - unethicalstudies
+    type: grid
+    grid-item-border: true
+    sort: false
+---
+
+The following modules can be integrated into lectures involving discussions around the ethics:
+
+::: {#eth}
+:::
