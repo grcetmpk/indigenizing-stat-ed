@@ -28,11 +28,11 @@ bibliographystyle: apa
 
 -   Caution should be exercised when managing data on Indigenous Peoples.
 
--   Colonization is the act of settling among and establishing control over Indigenous land and Peoples
+-   To many, data may be seen through a **colonial** context as something that, too, has been **taken** [@rodriguez_2016].
 
-    -   To many, data may be seen through a colonial context as something that, too, has been taken [@rodriguez_2016].
+    -   **Colonization**: the act of settling among and establishing control over Indigenous land and Peoples
 
--   Data on Indigenous Peoples has also been used as a weapon against them to gain control over them by colonial settlers.
+-   Data on Indigenous Peoples has also been used as a weapon against them to gain **control** over them by colonial settlers.
 
 ## Data on Indigenous Peoples: IDS
 
@@ -44,13 +44,16 @@ bibliographystyle: apa
 
 ## Data on Indigenous Peoples: Discussion
 
+-   Why might Indigenous Peoples want control over how their data is collected, stored, and used? Discuss in small groups.
 
-- Why might Indigenous Peoples want control over how their data is collected, stored, and used? Discuss in small groups.
-
-:::{.incremental}
-- *While data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples* [@kukutai_2016].
-
-- *Such biases can be harmful to Indigenous Peoples*. 
+::: incremental
+-   Possible Answer:
+    -   *While data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples* [@kukutai_2016].
+    -   *Such biases can be harmful to Indigenous Peoples*.
 :::
+
+## Continue the Lecture!
+
+*(Continue talking about Data Management as you would in a typical offering of your course.)*
 
 ## References

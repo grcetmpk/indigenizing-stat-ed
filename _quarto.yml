@@ -10,6 +10,7 @@ website:
         text: Home
       - sidebar:topics
       - contributors.qmd
+      - guestbook.qmd
     
     right:
       - href: "https://github.com/UBC-STAT/STAT545.github.io"

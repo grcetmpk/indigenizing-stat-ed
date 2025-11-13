@@ -4,7 +4,7 @@
     "href": "topics/collectingstoringusingdata/collectingstoringusingdata.html",
     "title": "Collecting, Storing, and Using Data",
     "section": "",
-    "text": "The following modules can be integrated into lectures involving the collection, storing, or using (analyzing) of data:\n\n\n\n\n\n\n\nData Sovereignty\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Management: Example Slides\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "The following modules can be integrated into lectures involving the collection, storing, or using (analyzing) of data:\n\n\n\n\n\n\n\nData Sovereignty\n\n\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Collecting, Storing, and Using Data"
     ]
@@ -142,7 +142,7 @@
     "href": "topics/collectingstoringusingdata/datasov/slides/index.html#data-on-indigenous-peoples",
     "title": "Data Management: Example Slides",
     "section": "Data on Indigenous Peoples",
-    "text": "Data on Indigenous Peoples\n\nCaution should be exercised when managing data on Indigenous Peoples.\nColonization is the act of settling among and establishing control over Indigenous land and Peoples\n\nTo many, data may be seen through a colonial context as something that, too, has been taken (Rodriguez-Lonebear 2016).\n\nData on Indigenous Peoples has also been used as a weapon against them to gain control over them by colonial settlers."
+    "text": "Data on Indigenous Peoples\n\nCaution should be exercised when managing data on Indigenous Peoples.\nTo many, data may be seen through a colonial context as something that, too, has been taken (Rodriguez-Lonebear 2016).\n\nColonization: the act of settling among and establishing control over Indigenous land and Peoples\n\nData on Indigenous Peoples has also been used as a weapon against them to gain control over them by colonial settlers."
   },
   {
     "objectID": "topics/collectingstoringusingdata/datasov/slides/index.html#data-on-indigenous-peoples-ids",
@@ -156,7 +156,14 @@
     "href": "topics/collectingstoringusingdata/datasov/slides/index.html#data-on-indigenous-peoples-discussion",
     "title": "Data Management: Example Slides",
     "section": "Data on Indigenous Peoples: Discussion",
-    "text": "Data on Indigenous Peoples: Discussion\n\nWhy might Indigenous Peoples want control over how their data is collected, stored, and used? Discuss in small groups.\n\n\n\nWhile data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples (Kukutai and Taylor 2016).\nSuch biases can be harmful to Indigenous Peoples."
+    "text": "Data on Indigenous Peoples: Discussion\n\nWhy might Indigenous Peoples want control over how their data is collected, stored, and used? Discuss in small groups.\n\n\n\nPossible Answer:\n\nWhile data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples (Kukutai and Taylor 2016).\nSuch biases can be harmful to Indigenous Peoples."
+  },
+  {
+    "objectID": "topics/collectingstoringusingdata/datasov/slides/index.html#continue-the-lecture",
+    "href": "topics/collectingstoringusingdata/datasov/slides/index.html#continue-the-lecture",
+    "title": "Data Management: Example Slides",
+    "section": "Continue the Lecture!",
+    "text": "Continue the Lecture!\n(Continue talking about Data Management as you would in a typical offering of your course.)"
   },
   {
     "objectID": "topics/collectingstoringusingdata/datasov/slides/index.html#references",
