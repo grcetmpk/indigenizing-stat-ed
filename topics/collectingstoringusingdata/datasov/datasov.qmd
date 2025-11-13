@@ -34,7 +34,7 @@ Data on Indigenous Peoples has long been used as a weapon against them. @anderse
 
 ## Quarto Slide Example
 
-Source Code
+[Source Code](https://github.com/grcetmpk/IndigenizingSDSE.github.io/blob/main/topics/collectingstoringusingdata/datasov/slides/index.qmd)
 
 ```{=html}
 <style>
