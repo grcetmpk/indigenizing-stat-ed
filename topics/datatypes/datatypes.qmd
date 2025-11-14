@@ -2,12 +2,12 @@
 title: "Types of Data"
 listing:
   - id: tod
-    max-description-length: 500
+    max-description-length: 250
     image-height: 150px
     fields: [title, description]
     contents: 
-      - categoricaldata
-      - oraltraditions
+      - categoricaldata/categoricaldata.qmd
+      - oraltraditions/oraltraditions.qmd
     type: grid
     grid-item-border: true
     sort: false
