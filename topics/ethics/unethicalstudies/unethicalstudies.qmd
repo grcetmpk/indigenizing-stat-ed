@@ -1,5 +1,5 @@
 ---
-title: "Unethical Studies Involving Indigenous Data"
+title: "Inappropriate Uses of Indigenous Data"
 format: html
 bibliography: ../../../ISDSE.bib
 ---
