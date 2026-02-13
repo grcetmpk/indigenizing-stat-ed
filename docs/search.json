@@ -4,139 +4,10 @@
     "href": "topics/collectingstoringusingdata/collectingstoringusingdata.html",
     "title": "Collecting, Storing, and Using Data",
     "section": "",
-    "text": "The following modules can be integrated into lectures involving the collection, storing, or using (analyzing) of data:\n\n\n\n\n\n\n\nData Sovereignty\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "The following module(s) can be integrated into lectures involving the collection, storing, or using (analyzing) of data:\n\n\n\n\n\n\n\nIndigenous Data Sovereignty\n\n\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Collecting, Storing, and Using Data"
     ]
-  },
-  {
-    "objectID": "topics/collectingstoringusingdata/datasov/datasov.html",
-    "href": "topics/collectingstoringusingdata/datasov/datasov.html",
-    "title": "Data Sovereignty",
-    "section": "",
-    "text": "When talking about data collection, storage, and/or uses, we often talk about health data and being careful with personal identifying information (PII). Including conversations around Indigenous Data Sovereignty (IDS) is a natural extension that could easily be included in lectures for this topic.\n\n\nIDS is the idea that Indigenous Peoples have the right to own and control how their data are collected, managed and used (Andersen et al. 2025). IDS came from Indigenous demands for the rights to their own data, and from campaigns from these communities against the harmful use of existing Indigenous data (Andersen et al. 2025).\nEarly Indigenous oral traditions included a complex set of rights and responsibilities concerning its use. (Kukutai and Taylor 2016). This is often regarded as an early expression of IDS.\nMuch like their land and territories, Indigenous Peoples want control and sovereignty over the data that has (and/or will be) collected on them (Kukutai and Taylor 2016). This is particularly relevant in the age of “open data”, where issues relating to data consent, use, ownership, and storage have increased in complexity (Kukutai and Taylor 2016). While data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples (Kukutai and Taylor 2016).\n\n\n\nColonization is the act of settling among and establishing control over Indigenous land and Peoples. To many, data may be seen through a colonial context as something that, too, has been taken (Rodriguez-Lonebear 2016).\nData on Indigenous Peoples has long been used as a weapon against them. Andersen et al. (2025) writes:\n\n“The violence of colonial data collection was a key strategy through which colonial authorities attempted to wrest control of Indigenous lands, lives, governing systems and collective identities. Statistical logics, classifications and taxonomies were key elements of the epistemology of colonization. Colonial officials in [Canada, Australia, New Zealand, and the United States] were endlessly fascinated with the apparent power of quantitative data to “order” and “explain” [Indigenous Peoples]’”"
-  },
-  {
-    "objectID": "topics/collectingstoringusingdata/datasov/datasov.html#background",
-    "href": "topics/collectingstoringusingdata/datasov/datasov.html#background",
-    "title": "Data Sovereignty",
-    "section": "",
-    "text": "When talking about data collection, storage, and/or uses, we often talk about health data and being careful with personal identifying information (PII). Including conversations around Indigenous Data Sovereignty (IDS) is a natural extension that could easily be included in lectures for this topic.\n\n\nIDS is the idea that Indigenous Peoples have the right to own and control how their data are collected, managed and used (Andersen et al. 2025). IDS came from Indigenous demands for the rights to their own data, and from campaigns from these communities against the harmful use of existing Indigenous data (Andersen et al. 2025).\nEarly Indigenous oral traditions included a complex set of rights and responsibilities concerning its use. (Kukutai and Taylor 2016). This is often regarded as an early expression of IDS.\nMuch like their land and territories, Indigenous Peoples want control and sovereignty over the data that has (and/or will be) collected on them (Kukutai and Taylor 2016). This is particularly relevant in the age of “open data”, where issues relating to data consent, use, ownership, and storage have increased in complexity (Kukutai and Taylor 2016). While data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples (Kukutai and Taylor 2016).\n\n\n\nColonization is the act of settling among and establishing control over Indigenous land and Peoples. To many, data may be seen through a colonial context as something that, too, has been taken (Rodriguez-Lonebear 2016).\nData on Indigenous Peoples has long been used as a weapon against them. Andersen et al. (2025) writes:\n\n“The violence of colonial data collection was a key strategy through which colonial authorities attempted to wrest control of Indigenous lands, lives, governing systems and collective identities. Statistical logics, classifications and taxonomies were key elements of the epistemology of colonization. Colonial officials in [Canada, Australia, New Zealand, and the United States] were endlessly fascinated with the apparent power of quantitative data to “order” and “explain” [Indigenous Peoples]’”"
-  },
-  {
-    "objectID": "topics/collectingstoringusingdata/datasov/datasov.html#lecture-content",
-    "href": "topics/collectingstoringusingdata/datasov/datasov.html#lecture-content",
-    "title": "Data Sovereignty",
-    "section": "Lecture Content",
-    "text": "Lecture Content\n\nWhen talking about data management, explicitly define Indigenous Data Sovereignty\nTalk about the historical misuse of data on Indigenous Peoples, and the impacts of studies on their (and other marginalized) communities"
-  },
-  {
-    "objectID": "topics/collectingstoringusingdata/datasov/datasov.html#sample-slides",
-    "href": "topics/collectingstoringusingdata/datasov/datasov.html#sample-slides",
-    "title": "Data Sovereignty",
-    "section": "Sample Slides",
-    "text": "Sample Slides\nSource Code\n\n\n    \n\n\nReferences\n\n\nAndersen, C., M. Walter, T. Kukutai, and C. Gabel. 2025. Indigenous Statistics. 2nd ed. From Data Deficits to Data Sovereignty. Routledge. https://doi.org/10.4324/9781003173342.\n\n\nKukutai, Tahu, and John Taylor. 2016. Indigenous Data Sovereignty: Toward an Agenda. ANU press.\n\n\nRodriguez-Lonebear, Desi. 2016. “Building a Data Revolution in Indian Country.” Indigenous Data Sovereignty: Toward an Agenda 14: 253–72."
-  },
-  {
-    "objectID": "topics/ethics/unethicalstudies/unethicalstudies.html#lecture-content",
-    "href": "topics/ethics/unethicalstudies/unethicalstudies.html#lecture-content",
-    "title": "Inappropriate Uses of Indigenous Data",
-    "section": "Lecture Content",
-    "text": "Lecture Content\n\n\n\n\n\nReferences"
-  },
-  {
-    "objectID": "topics/machinelearning/racialbias/racialbias.html#lecture-content",
-    "href": "topics/machinelearning/racialbias/racialbias.html#lecture-content",
-    "title": "Racial Bias",
-    "section": "Lecture Content",
-    "text": "Lecture Content\n\n\n\n\n\nReferences"
-  },
-  {
-    "objectID": "topics/datatypes/datatypes.html",
-    "href": "topics/datatypes/datatypes.html",
-    "title": "Types of Data",
-    "section": "",
-    "text": "The following modules can be integrated into lectures involving discussions around the types of data we encounter in practice:\n\n\n\n\n\n\n\nCategorical Data\n\n\n\n\n\n\n\n\n\n\n\n\n\nOral Traditions\n\n\n\n\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Types of Data"
-    ]
-  },
-  {
-    "objectID": "topics/datatypes/categoricaldata/slides/index.html#categorical-variables",
-    "href": "topics/datatypes/categoricaldata/slides/index.html#categorical-variables",
-    "title": "Categorical Variables: Example Slides",
-    "section": "Categorical Variables",
-    "text": "Categorical Variables"
-  },
-  {
-    "objectID": "topics/datatypes/categoricaldata/slides/index.html#categorical-variables-race-and-ethnicity",
-    "href": "topics/datatypes/categoricaldata/slides/index.html#categorical-variables-race-and-ethnicity",
-    "title": "Categorical Variables: Example Slides",
-    "section": "Categorical Variables: Race and Ethnicity",
-    "text": "Categorical Variables: Race and Ethnicity"
-  },
-  {
-    "objectID": "topics/datatypes/categoricaldata/slides/index.html#categorical-variables-discussion",
-    "href": "topics/datatypes/categoricaldata/slides/index.html#categorical-variables-discussion",
-    "title": "Categorical Variables: Example Slides",
-    "section": "Categorical Variables: Discussion",
-    "text": "Categorical Variables: Discussion\n\nWhy might Indigenous Peoples want control over how their data is collected, stored, and used? Discuss in small groups.\n\n\n\nPossible Answer:\n\nWhile data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples (Kukutai and Taylor 2016).\nSuch biases can be harmful to Indigenous Peoples."
-  },
-  {
-    "objectID": "topics/datatypes/categoricaldata/slides/index.html#continue-the-lecture",
-    "href": "topics/datatypes/categoricaldata/slides/index.html#continue-the-lecture",
-    "title": "Categorical Variables: Example Slides",
-    "section": "Continue the Lecture!",
-    "text": "Continue the Lecture!\n(Continue talking about Data Management as you would in a typical offering of your course.)"
-  },
-  {
-    "objectID": "topics/datatypes/categoricaldata/slides/index.html#references",
-    "href": "topics/datatypes/categoricaldata/slides/index.html#references",
-    "title": "Categorical Variables: Example Slides",
-    "section": "References",
-    "text": "References\n\n\n\n\nKukutai, Tahu, and John Taylor. 2016. Indigenous Data Sovereignty: Toward an Agenda. ANU press."
-  },
-  {
-    "objectID": "topics/researchmethods/ppdac/ppdac.html#lecture-content",
-    "href": "topics/researchmethods/ppdac/ppdac.html#lecture-content",
-    "title": "PPDAC",
-    "section": "Lecture Content",
-    "text": "Lecture Content\n\n\n\n\n\nReferences"
-  },
-  {
-    "objectID": "topics/researchmethods/indigenousmethods/indigenousmethods.html#lecture-content",
-    "href": "topics/researchmethods/indigenousmethods/indigenousmethods.html#lecture-content",
-    "title": "Indigenous Research Methods",
-    "section": "Lecture Content",
-    "text": "Lecture Content\n\n\n\n\n\nReferences"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Indigenizing Statistics and Data Science Education",
-    "section": "",
-    "text": "This website and its contents are a work in progress!\n\n\n\n\n\nWelcome to the launchpad of Indigenizing Statistics and Data Science Education (ISDSE). This is a hub for educators in the fields of Statistics and Data Science to learn about how they can incorporate Indigenous topics into their classrooms in a way that is organic and appropriate.\nWe will be providing tools that will allow educators to confidently and appropriately do the following:\n\nIncorporate Indigenous knowledge into their current curricula\nFacilitate discussions on the impact of data on Indigenous communities\nAppropriately use Indigenous data in classroom examples\n\nModules are create for various statistical topics, so that they can be used across a variety of courses and levels. Please sign the Guestbook to let us know how you plan to use the materials from this project in your classroom/work!\nThis work is done in consultation with the Xwi7xqa Library and the CTLT Indigenous Initatives team at the University of British Columbia."
-  },
-  {
-    "objectID": "additionalresources.html",
-    "href": "additionalresources.html",
-    "title": "Additional Resources",
-    "section": "",
-    "text": "First Nations Principles of Ownership, Control, Access, and Possession (OCAP)® online course (paid): https://fnigc.ca/ocap-training/"
-  },
-  {
-    "objectID": "guestbook.html",
-    "href": "guestbook.html",
-    "title": "Guestbook",
-    "section": "",
-    "text": "Sign the Guestbook!\n   Let us know how you plan to use the contents of this project, or leave a suggestion! \n  \n    \n      \n        \n          \n        \n        \n          \n        \n        \n          \n        \n      \n    \n    \n      \n    \n    Submit Form"
-  },
-  {
-    "objectID": "contributors.html",
-    "href": "contributors.html",
-    "title": "Contributors",
-    "section": "",
-    "text": "Grace Tompkins\nThis project was created by Dr. Grace Tompkins, Assistant Professor of Teaching at the University of British Columbia, situated on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam) people. She is a settler from Mi’kma’ki (Nova Scotia) who is passionate about inclusive education.\n\nThank you to the following people who consulted on this project and provided resources:\n\nSamantha Nock (Indigenous Initiatives, CTLT)\nKarleen Delaurier-Lyle (Xwi7xwa Librarian)"
   },
   {
     "objectID": "topics/researchmethods/researchmethods.html",
@@ -149,46 +20,241 @@
     ]
   },
   {
-    "objectID": "topics/datatypes/oraltraditions/oraltraditions.html#lecture-content",
-    "href": "topics/datatypes/oraltraditions/oraltraditions.html#lecture-content",
-    "title": "Oral Traditions",
+    "objectID": "glossary/glossary.html",
+    "href": "glossary/glossary.html",
+    "title": "Glossary",
+    "section": "",
+    "text": "Below is a complete list of terms and definitions used in the ISDSE project. We follow the conventions of referencing Indigenous Peoples/peoples here.\nColonization: the act of settling among and establishing control over Indigenous land and Peoples.\nData sharing agreement: formal contract between parties that outlines the terms, conditions, and purpose for sharing, using, and protecting data.\nData steward: the organization responsible for receiving and maintaining the Data and First Nation Data shared under the data sharing agreement.\nFirst Nations: one of three recognized Indigenous Peoples in Canada, which includes Status and non-Status Indians. There are over 630 First Nations communities in Canada, which represent more than 50 Nations and 50 Indigenous languages.\nIndigenous Data Sovereignty (IDS): the right of Indigenous Peoples to own and control how their data are collected, managed and used\nIndigenous Peoples: a collective name for the original peoples of North America and their descendants. The Canadian Constitution recognizes 3 groups of Indigenous peoples: First Nations, Inuit, and Métis. These are 3 distinct peoples with unique histories, languages, cultural practices and spiritual beliefs.\nOCAP®: principles or ownership, control, access, possession established by the First Nations Information Governance Centre (FNIGC) for First Nations to assert data sovereignty. See https://fnigc.ca/ocap-training/.\npersonal identifying information (PII): any data that can be used to identify a specific individual, either on its own or when combined with other information."
+  },
+  {
+    "objectID": "subtopics/racialbias/racialbias.html#lecture-content",
+    "href": "subtopics/racialbias/racialbias.html#lecture-content",
+    "title": "Racial Bias",
+    "section": "Lecture Content",
+    "text": "Lecture Content"
+  },
+  {
+    "objectID": "subtopics/datasov/slides/index.html#data-management",
+    "href": "subtopics/datasov/slides/index.html#data-management",
+    "title": "Data Management: Example Slides",
+    "section": "Data Management",
+    "text": "Data Management\n\n\nData management refers to the way that data is collected, used, and stored.\nIn many cases, data contains sensitive information, such as personal identifying information (PII) like names, addresses, and birth dates, or sensitive health-related data.\nData involving PII should be:\n\nEncrypted\nOnly accessible by authorized users\nAnonymized (where possible)\nUsed on a “need-to-know” basis"
+  },
+  {
+    "objectID": "subtopics/datasov/slides/index.html#indigenous-data",
+    "href": "subtopics/datasov/slides/index.html#indigenous-data",
+    "title": "Data Management: Example Slides",
+    "section": "Indigenous Data",
+    "text": "Indigenous Data\n\nCaution should be exercised when managing data on Indigenous Peoples and their lands.\nTo many, data may be seen through a colonial context as something that, too, has been taken (Rodriguez-Lonebear 2016).\n\nColonization: the act of settling among and establishing control over Indigenous land and Peoples\n\nData on Indigenous Peoples has also been used as a weapon against them to gain control over them by colonial settlers."
+  },
+  {
+    "objectID": "subtopics/datasov/slides/index.html#indigenous-data-ids",
+    "href": "subtopics/datasov/slides/index.html#indigenous-data-ids",
+    "title": "Data Management: Example Slides",
+    "section": "Indigenous Data: IDS",
+    "text": "Indigenous Data: IDS\n\nIndigenous Data Sovereignty (IDS):the idea that Indigenous Peoples have the right to own and control how their data are collected, managed and used (Andersen et al. 2025).\n\nStems from Indigenous demands for the rights to their own data, and the harmful misuse of existing Indigenous data (Andersen et al. 2025).\n\nIDS is particularly relevant in the age of “open data”, where issues relating to data consent, use, ownership, and storage have increased in complexity (Kukutai and Taylor 2016)."
+  },
+  {
+    "objectID": "subtopics/datasov/slides/index.html#ids-in-first-nations-communities",
+    "href": "subtopics/datasov/slides/index.html#ids-in-first-nations-communities",
+    "title": "Data Management: Example Slides",
+    "section": "IDS in First Nations Communities",
+    "text": "IDS in First Nations Communities\n\nIn Canada, the OCAP® (ownership, control, access, posession) principles are established for First Nations to assert data sovereignty.\n\n\n\nOwnership refers to the relationship of First Nations to their cultural knowledge, data, and information.\nControl affirms that First Nations, their communities, and representative bodies are within their rights to seek control over all aspects of research and information management processes that impact them.\nAccess refers to the fact that First Nations must have access to information and data about themselves and their communities regardless of where it is held.\nPossession is the mechanism by which ownership can be asserted and protected.\n\n\nNote: OCAP® is an expression of First Nations’ jurisdiction over information about their communities. The principals of OCAP® are not an expression of all Indigenous communities."
+  },
+  {
+    "objectID": "subtopics/datasov/slides/index.html#asserting-ocap-with-data-sharing-agreements",
+    "href": "subtopics/datasov/slides/index.html#asserting-ocap-with-data-sharing-agreements",
+    "title": "Data Management: Example Slides",
+    "section": "Asserting OCAP with Data Sharing Agreements",
+    "text": "Asserting OCAP with Data Sharing Agreements\nA data sharing agreement is a formal contract which ensures Indigenous Peoples are prioritized while working in partnership with non-Indigenous organizations (for example, researchers, universities, private organizations, or government).\n\nmay involve a data steward who is responsible for receiving and maintaining the data under the agreement\n\nSome considerations for agreements:\n\n\nWho are the parties involved?\nWhat type of data is being collected/stored/used? Which data will be shared?\nWhat is the scope? Is this a one-time or a continued collection/storage/usage?\nWho is the data steward?\nWhen will the agreement be terminated?"
+  },
+  {
+    "objectID": "subtopics/datasov/slides/index.html#data-on-indigenous-peoples-discussion",
+    "href": "subtopics/datasov/slides/index.html#data-on-indigenous-peoples-discussion",
+    "title": "Data Management: Example Slides",
+    "section": "Data on Indigenous Peoples: Discussion",
+    "text": "Data on Indigenous Peoples: Discussion\n\nWhy might Indigenous Peoples want control over how their data is collected, stored, and used? Discuss in small groups.\n\n\n\nPossible Answer:\n\nWhile data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples (Kukutai and Taylor 2016).\nSuch biases can be harmful to Indigenous Peoples."
+  },
+  {
+    "objectID": "subtopics/datasov/slides/index.html#reflection-activity",
+    "href": "subtopics/datasov/slides/index.html#reflection-activity",
+    "title": "Data Management: Example Slides",
+    "section": "Reflection Activity",
+    "text": "Reflection Activity\nRead this article involving members of Pictou Landing First Nation in Nova Scotia, Canada. The Mi’kmaq are the Indigenous Peoples who are native to Nova Scotia, New Brunswick, PEI, Newfoundland, and parts of Quebec and Maine.\nPrepare to discuss the following questions in a small group: - Was the researcher respecting the principles of OCAP throughout this study? - Is it really a big deal if extra “non-invasive” scans were taken?"
+  },
+  {
+    "objectID": "subtopics/datasov/slides/index.html#continue-the-lecture",
+    "href": "subtopics/datasov/slides/index.html#continue-the-lecture",
+    "title": "Data Management: Example Slides",
+    "section": "Continue the Lecture!",
+    "text": "Continue the Lecture!\n(Continue talking about Data Management as you would in a typical offering of your course, connecting back to the principals of IDS where appropriate.)"
+  },
+  {
+    "objectID": "subtopics/datasov/slides/index.html#references",
+    "href": "subtopics/datasov/slides/index.html#references",
+    "title": "Data Management: Example Slides",
+    "section": "References",
+    "text": "References\n\n\n\n\nAndersen, C., M. Walter, T. Kukutai, and C. Gabel. 2025. Indigenous Statistics. 2nd ed. From Data Deficits to Data Sovereignty. Routledge. https://doi.org/10.4324/9781003173342.\n\n\nKukutai, Tahu, and John Taylor. 2016. Indigenous Data Sovereignty: Toward an Agenda. ANU press.\n\n\nRodriguez-Lonebear, Desi. 2016. “Building a Data Revolution in Indian Country.” Indigenous Data Sovereignty: Toward an Agenda 14: 253–72."
+  },
+  {
+    "objectID": "subtopics/categoricaldata/slides/index.html#categorical-variables",
+    "href": "subtopics/categoricaldata/slides/index.html#categorical-variables",
+    "title": "Categorical Variables: Example Slides",
+    "section": "Categorical Variables",
+    "text": "Categorical Variables"
+  },
+  {
+    "objectID": "subtopics/categoricaldata/slides/index.html#categorical-variables-race-and-ethnicity",
+    "href": "subtopics/categoricaldata/slides/index.html#categorical-variables-race-and-ethnicity",
+    "title": "Categorical Variables: Example Slides",
+    "section": "Categorical Variables: Race and Ethnicity",
+    "text": "Categorical Variables: Race and Ethnicity"
+  },
+  {
+    "objectID": "subtopics/categoricaldata/slides/index.html#categorical-variables-discussion",
+    "href": "subtopics/categoricaldata/slides/index.html#categorical-variables-discussion",
+    "title": "Categorical Variables: Example Slides",
+    "section": "Categorical Variables: Discussion",
+    "text": "Categorical Variables: Discussion\n\nWhy might Indigenous Peoples want control over how their data is collected, stored, and used? Discuss in small groups.\n\n\n\nPossible Answer:\n\nWhile data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples [@kukutai_2016].\nSuch biases can be harmful to Indigenous Peoples."
+  },
+  {
+    "objectID": "subtopics/categoricaldata/slides/index.html#continue-the-lecture",
+    "href": "subtopics/categoricaldata/slides/index.html#continue-the-lecture",
+    "title": "Categorical Variables: Example Slides",
+    "section": "Continue the Lecture!",
+    "text": "Continue the Lecture!\n(Continue talking about Data Management as you would in a typical offering of your course.)"
+  },
+  {
+    "objectID": "subtopics/categoricaldata/slides/index.html#references",
+    "href": "subtopics/categoricaldata/slides/index.html#references",
+    "title": "Categorical Variables: Example Slides",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "subtopics/indigenousmethods/indigenousmethods.html#lecture-content",
+    "href": "subtopics/indigenousmethods/indigenousmethods.html#lecture-content",
+    "title": "Indigenous Research Methods",
     "section": "Lecture Content",
     "text": "Lecture Content\n\n\n\n\n\nReferences"
   },
   {
-    "objectID": "topics/datatypes/categoricaldata/categoricaldata.html",
-    "href": "topics/datatypes/categoricaldata/categoricaldata.html",
-    "title": "Categorical Data",
+    "objectID": "guestbook.html",
+    "href": "guestbook.html",
+    "title": "Guestbook",
     "section": "",
-    "text": "Variables related to race and ethnicity are present in most studies involving human data. However the the lack of standardized guidelines in including such variables in analyses can lead to biased inferences for many underrepresented populations (Sharghi et al. 2024). Oftentimes, race and ethnicity categories are coarsened to have a more reasonable number of possible levels., thus omitting complex racial and ethnic identities which are grouped into broader categories. These may not account for the unique lived experiences of smaller or mixed-race identities) (Sharghi et al. 2024). Such simplifications may lead marginalized groups to be underrepresented in studies, furthering the feeling of invisibility and a lack of belonging (Sharghi et al. 2024).\nWe explicitly define race as a group of people who are arbitrarily categorized according to common physical characteristics, regardless of language, culture or nationality, as per Statistics Canada. We define ethnicity as the shared cultural, linguistic or religious characteristics of a group of people having a common history, heritage or ancestry. While these terms are often used interchangeably, there is a distinct difference which we emphasize here.\nThe ways in which we present classifications of variables related to both race and ethnicity can have profound impacts on marginalized communities. “White” is frequently shown at the top of tables, and typically used as a reference group to which other groups are compared (Sharghi et al. 2024). Doing so can reinforce ideas of white supremacy, stemming from Colonialism.\nClassifications and taxonomies were key elements of colonization over Indigenous Peoples. Colonial officials in Canada, Australia, New Zealand, and the United States used the power of quantitative data to “order” and “explain” Indigenous Peoples (Andersen et al. 2025). In the United States, American Indian/Alaska Native identity is often not considered as a category when variables on race are collected, resulting in the erasure of American Indian/Alaska Native Peoples in studies (Sharghi et al. 2024).\nIn Canada, Métis have typically been recognised as a “mixed-descent identity”, which undermines the Métis Nation as a self-governing Indigenous nation with associated rights (Andersen et al. 2025).\nThere have been ongoing discussions on how to appropriately include considerations of race and ethnicity into studies, including a guide for researchers in British Columbia.\nA guide summarizing how Indigenous Peoples were represented in the Canadian Census from 1870 to 2021, see Orlandini, Cooper, and Manuel (2021)."
+    "text": "Sign the Guestbook!\n   Let us know how you plan to use the contents of this project, or leave a suggestion! \n  \n    \n      \n        \n          \n        \n        \n          \n        \n        \n          \n        \n      \n    \n    \n      \n    \n    Submit Form"
   },
   {
-    "objectID": "topics/datatypes/categoricaldata/categoricaldata.html#background",
-    "href": "topics/datatypes/categoricaldata/categoricaldata.html#background",
-    "title": "Categorical Data",
+    "objectID": "additionalresources.html",
+    "href": "additionalresources.html",
+    "title": "Additional Resources",
     "section": "",
-    "text": "Variables related to race and ethnicity are present in most studies involving human data. However the the lack of standardized guidelines in including such variables in analyses can lead to biased inferences for many underrepresented populations (Sharghi et al. 2024). Oftentimes, race and ethnicity categories are coarsened to have a more reasonable number of possible levels., thus omitting complex racial and ethnic identities which are grouped into broader categories. These may not account for the unique lived experiences of smaller or mixed-race identities) (Sharghi et al. 2024). Such simplifications may lead marginalized groups to be underrepresented in studies, furthering the feeling of invisibility and a lack of belonging (Sharghi et al. 2024).\nWe explicitly define race as a group of people who are arbitrarily categorized according to common physical characteristics, regardless of language, culture or nationality, as per Statistics Canada. We define ethnicity as the shared cultural, linguistic or religious characteristics of a group of people having a common history, heritage or ancestry. While these terms are often used interchangeably, there is a distinct difference which we emphasize here.\nThe ways in which we present classifications of variables related to both race and ethnicity can have profound impacts on marginalized communities. “White” is frequently shown at the top of tables, and typically used as a reference group to which other groups are compared (Sharghi et al. 2024). Doing so can reinforce ideas of white supremacy, stemming from Colonialism.\nClassifications and taxonomies were key elements of colonization over Indigenous Peoples. Colonial officials in Canada, Australia, New Zealand, and the United States used the power of quantitative data to “order” and “explain” Indigenous Peoples (Andersen et al. 2025). In the United States, American Indian/Alaska Native identity is often not considered as a category when variables on race are collected, resulting in the erasure of American Indian/Alaska Native Peoples in studies (Sharghi et al. 2024).\nIn Canada, Métis have typically been recognised as a “mixed-descent identity”, which undermines the Métis Nation as a self-governing Indigenous nation with associated rights (Andersen et al. 2025).\nThere have been ongoing discussions on how to appropriately include considerations of race and ethnicity into studies, including a guide for researchers in British Columbia.\nA guide summarizing how Indigenous Peoples were represented in the Canadian Census from 1870 to 2021, see Orlandini, Cooper, and Manuel (2021)."
+    "text": "First Nations Principles of Ownership, Control, Access, and Possession (OCAP)® online course (paid): https://fnigc.ca/ocap-training/"
   },
   {
-    "objectID": "topics/datatypes/categoricaldata/categoricaldata.html#lecture-content",
-    "href": "topics/datatypes/categoricaldata/categoricaldata.html#lecture-content",
-    "title": "Categorical Data",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Indigenizing Statistics and Data Science Education",
+    "section": "",
+    "text": "This website and its contents are a work in progress!\n\n\n\n\n\nWelcome to the launchpad of Indigenizing Statistics and Data Science Education (ISDSE). This is a hub for educators in the fields of Statistics and Data Science to learn about how they can incorporate Indigenous topics into their classrooms in a way that is organic and appropriate.\nWe will be providing tools that will allow educators to confidently and appropriately do the following:\n\nIncorporate Indigenous knowledge into their current curricula\nFacilitate discussions on the impact of data on Indigenous communities\nAppropriately use Indigenous data in classroom examples\n\nModules are create for various statistical topics, so that they can be used across a variety of courses and levels. Please sign the Guestbook to let us know how you plan to use the materials from this project in your classroom/work!\nThis work is done in consultation with the Xwi7xqa Library and the CTLT Indigenous Initatives team at the University of British Columbia."
+  },
+  {
+    "objectID": "subtopics/categoricaldata/categoricaldata.html",
+    "href": "subtopics/categoricaldata/categoricaldata.html",
+    "title": "Data Involving Race and Ethnicity",
+    "section": "",
+    "text": "Variables related to race and ethnicity are present in most studies involving human data. However the the lack of standardized guidelines in including such variables in analyses can lead to biased inferences for many underrepresented populations [1]. Oftentimes, race and ethnicity categories are coarsened to have a more reasonable number of possible levels., thus omitting complex racial and ethnic identities which are grouped into broader categories. These may not account for the unique lived experiences of smaller or mixed-race identities) [1]. Such simplifications may lead marginalized groups to be underrepresented in studies, furthering the feeling of invisibility and a lack of belonging [1].\nWe explicitly define race as a group of people who are arbitrarily categorized according to common physical characteristics, regardless of language, culture or nationality, as per Statistics Canada. We define ethnicity as the shared cultural, linguistic or religious characteristics of a group of people having a common history, heritage or ancestry. While these terms are often used interchangeably, there is a distinct difference which we emphasize here.\nThe ways in which we present classifications of variables related to both race and ethnicity can have profound impacts on marginalized communities. “White” is frequently shown at the top of tables, and typically used as a reference group to which other groups are compared [1]. Doing so can reinforce ideas of white supremacy, stemming from Colonialism.\nClassifications and taxonomies were key elements of colonization over Indigenous Peoples. Colonial officials in Canada, Australia, New Zealand, and the United States used the power of quantitative data to “order” and “explain” Indigenous Peoples [2]. In the United States, American Indian/Alaska Native identity is often not considered as a category when variables on race are collected, resulting in the erasure of American Indian/Alaska Native Peoples in studies [1].\nIn Canada, Métis have typically been recognised as a “mixed-descent identity”, which undermines the Métis Nation as a self-governing Indigenous nation with associated rights [2].\nThere have been ongoing discussions on how to appropriately include considerations of race and ethnicity into studies, including a guide for researchers in British Columbia.\nA guide summarizing how Indigenous Peoples were represented in the Canadian Census from 1870 to 2021, see [3].",
+    "crumbs": [
+      "Data Involving Race and Ethnicity"
+    ]
+  },
+  {
+    "objectID": "subtopics/categoricaldata/categoricaldata.html#background",
+    "href": "subtopics/categoricaldata/categoricaldata.html#background",
+    "title": "Data Involving Race and Ethnicity",
+    "section": "",
+    "text": "Variables related to race and ethnicity are present in most studies involving human data. However the the lack of standardized guidelines in including such variables in analyses can lead to biased inferences for many underrepresented populations [1]. Oftentimes, race and ethnicity categories are coarsened to have a more reasonable number of possible levels., thus omitting complex racial and ethnic identities which are grouped into broader categories. These may not account for the unique lived experiences of smaller or mixed-race identities) [1]. Such simplifications may lead marginalized groups to be underrepresented in studies, furthering the feeling of invisibility and a lack of belonging [1].\nWe explicitly define race as a group of people who are arbitrarily categorized according to common physical characteristics, regardless of language, culture or nationality, as per Statistics Canada. We define ethnicity as the shared cultural, linguistic or religious characteristics of a group of people having a common history, heritage or ancestry. While these terms are often used interchangeably, there is a distinct difference which we emphasize here.\nThe ways in which we present classifications of variables related to both race and ethnicity can have profound impacts on marginalized communities. “White” is frequently shown at the top of tables, and typically used as a reference group to which other groups are compared [1]. Doing so can reinforce ideas of white supremacy, stemming from Colonialism.\nClassifications and taxonomies were key elements of colonization over Indigenous Peoples. Colonial officials in Canada, Australia, New Zealand, and the United States used the power of quantitative data to “order” and “explain” Indigenous Peoples [2]. In the United States, American Indian/Alaska Native identity is often not considered as a category when variables on race are collected, resulting in the erasure of American Indian/Alaska Native Peoples in studies [1].\nIn Canada, Métis have typically been recognised as a “mixed-descent identity”, which undermines the Métis Nation as a self-governing Indigenous nation with associated rights [2].\nThere have been ongoing discussions on how to appropriately include considerations of race and ethnicity into studies, including a guide for researchers in British Columbia.\nA guide summarizing how Indigenous Peoples were represented in the Canadian Census from 1870 to 2021, see [3].",
+    "crumbs": [
+      "Data Involving Race and Ethnicity"
+    ]
+  },
+  {
+    "objectID": "subtopics/categoricaldata/categoricaldata.html#lecture-content",
+    "href": "subtopics/categoricaldata/categoricaldata.html#lecture-content",
+    "title": "Data Involving Race and Ethnicity",
     "section": "Lecture Content",
-    "text": "Lecture Content\n\nDefine race\nDefine ethnicity\nDiscuss how variables with many categories may be desirable to condense into broader categories from a statistical standpoint\nDiscuss how this may impact marginalized communities, particularly Indigenous Peoples\nDiscuss how the way we present categories can contribute to damaging perceptions of marginalized communities, including Indigenous Peoples.\nProvide resources for students to learn how to appropriately include factors related to race and ethnicity in their own research (if applicable)."
+    "text": "Lecture Content\n\nDefine race\nDefine ethnicity\nDiscuss how variables with many categories may be desirable to condense into broader categories from a statistical standpoint\nDiscuss how this may impact marginalized communities, particularly Indigenous Peoples\nDiscuss how the way we present categories can contribute to damaging perceptions of marginalized communities, including Indigenous Peoples.\nProvide resources for students to learn how to appropriately include factors related to race and ethnicity in their own research (if applicable).",
+    "crumbs": [
+      "Data Involving Race and Ethnicity"
+    ]
   },
   {
-    "objectID": "topics/datatypes/categoricaldata/categoricaldata.html#sample-slides",
-    "href": "topics/datatypes/categoricaldata/categoricaldata.html#sample-slides",
-    "title": "Categorical Data",
+    "objectID": "subtopics/categoricaldata/categoricaldata.html#sample-slides",
+    "href": "subtopics/categoricaldata/categoricaldata.html#sample-slides",
+    "title": "Data Involving Race and Ethnicity",
     "section": "Sample Slides",
-    "text": "Sample Slides\nSource Code\n\n\n    \n\n\n\nReferences\n\n\nAndersen, C., M. Walter, T. Kukutai, and C. Gabel. 2025. Indigenous Statistics. 2nd ed. From Data Deficits to Data Sovereignty. Routledge. https://doi.org/10.4324/9781003173342.\n\n\nOrlandini, Rosa, Alexandra Cooper, and Kevin Manuel. 2021. “Guide on Ethnic, Racial, and Indigenous Variables in the Census of Canada: 1870 to 2021.”\n\n\nSharghi, Sima, Shokoufeh Khalatbari, Amy Laird, Jodi Lapidus, Felicity T Enders, Jareen Meinzen-Derr, Amanda L Tapia, and Jody D Ciolino. 2024. “Race, Ethnicity, and Considerations for Data Collection and Analysis in Research Studies.” Journal of Clinical and Translational Science 8 (1): e182."
+    "text": "Sample Slides\nSource Code\n\n\n    \n\n\n\nReferences\n\n\n[1] Sharghi S, Khalatbari S, Laird A, Lapidus J, Enders FT, Meinzen-Derr J, et al. Race, ethnicity, and considerations for data collection and analysis in research studies. Journal of Clinical and Translational Science 2024;8:e182.\n\n\n[2] Andersen C, Walter M, Kukutai T, Gabel C. Indigenous Statistics. 2nd ed. Routledge; 2025. https://doi.org/10.4324/9781003173342.\n\n\n[3] Orlandini R, Cooper A, Manuel K. Guide on ethnic, racial, and indigenous variables in the census of canada: 1870 to 2021 2021.",
+    "crumbs": [
+      "Data Involving Race and Ethnicity"
+    ]
   },
   {
-    "objectID": "topics/machinelearning/bigdata/bigdata.html#lecture-content",
-    "href": "topics/machinelearning/bigdata/bigdata.html#lecture-content",
-    "title": "Big Data",
+    "objectID": "subtopics/datasov/datasov.html",
+    "href": "subtopics/datasov/datasov.html",
+    "title": "Indigenous Data Sovereignty",
+    "section": "",
+    "text": "When talking about data collection, storage, and/or usage, we often talk about health data and the nuances around handling data containing personal identifying information (PII) . Including conversations around Indigenous Data Sovereignty (IDS) is a natural extension that could naturally incorporated in lectures surrounding the use of data.\n\n\nIDS is the idea that Indigenous Peoples have the right to own and control how their data are collected, managed and used [1]. IDS came from Indigenous demands for the rights to their own data, and from campaigns from these communities against the harmful use of existing Indigenous data [1]. Early Indigenous oral traditions included a complex set of rights and responsibilities concerning its use. [2]. This is often regarded as an early expression of IDS.\nMuch like their land and territories, Indigenous Peoples want control and sovereignty over the data that has (and/or will be) collected on them [2]. This is particularly relevant in the age of “open data”, where issues relating to data consent, use, ownership, and storage have increased in complexity [2]. While data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples [2].\n\n\n\nColonization is the act of settling among and establishing control over Indigenous land and Peoples. To many, data may be seen through a colonial context as something that, too, has been taken [3].\nData on Indigenous Peoples has long been used as a weapon against them. Anderson, Walter, and Kukutai (2025( [1] write:\n\n“The violence of colonial data collection was a key strategy through which colonial authorities attempted to wrest control of Indigenous lands, lives, governing systems and collective identities. Statistical logics, classifications and taxonomies were key elements of the epistemology of colonization. Colonial officials in [Canada, Australia, New Zealand, and the United States] were endlessly fascinated with the apparent power of quantitative data to “order” and “explain” [Indigenous Peoples]’.”\n\n\n\n\nFirst Nations are one of the three recognized Indigenous Peoples in Canada.\nIn Canada, the OCAP® (ownership, control, access, possession) principles were established by the First Nations Information Governance Centre (FNIGC) for First Nations to assert data sovereignty.\n\nOwnership refers to the relationship of First Nations to their cultural knowledge, data, and information.\nControl affirms that First Nations, their communities, and representative bodies are within their rights to seek control over all aspects of research and information management processes that impact them.\nAccess refers to the fact that First Nations must have access to information and data about themselves and their communities regardless of where it is held.\nPossession is the mechanism by which ownership can be asserted and protected.\n\nNote: OCAP® is an expression of First Nations’ jurisdiction over information about their communities. The principals of OCAP® are not an expression of all Indigenous communities.\n\n\n\nTo assert OCAP® (or other data sovereignty expressions for non-First Nations Peoples), one may propose a data sharing agreement . This formal contract will ensure Indigenous Peoples are prioritized while working in partnership with non-Indigenous organizations (for example, researchers, universities, private organizations, or government).\nData sharing agreements may involve a data steward  who is responsible for receiving and maintaining the data under the agreement.\nIndigenous Peoples may assert data sovereignty in different ways. In Alberta, the Alberta First Nations Information Governance Centre (AFNIGC) created a framework for data sharing agreements, which is publicly available here [4]. In this document, the AFNIGC proposed a set of considerations when creating an agreement, which include (but are not limited to):\n\nWho are the parties involved?\nWhat kind of data sharing is involved? Is it one-sided? Does it involve a linkage of data to other sources?\nWhat type of data is being collected/stored/used? Which data will be shared?\nWhat is the scope? Is this a one-time or a continued collection/storage/usage of data?\nWhat is the purpose of the data sharing?\nWhat is the data flow?\nWho is the data steward?\nWhen will the agreement be terminated?\n\nThe AFNIGC [4] highlighted the following:\n\n“It is important to develop a data sharing agreement that outlines the nature of the partnership with non-indigenous institutions as “cultural differences, unrealistic expectations, organizational constraints, and ongoing ethical and data sharing violations can create barriers that stifle or end effective partnerships” [5]. Throughout our work at the Centre, we strive to promote a community-centered approach to information governance, data repatriation efforts, and battling information poverty. This is a tool for our First Nation partners to establish their sovereign rights as individual nations and become self-determining in their information governance.”\n\n\n\n\nThere are many examples throughout history where Indigenous Data was inappropriately used without the consent of their community members from which data were taken. In the 1980s, Nuu-chah-nulth people on Vancouver Island, Canada were enrolled in a study investigating the high incidence of rheumatoid arthritis, episodic inflammatory arthritis, and lupus in their population. Over the duration of this study, more than 800 vials of blood, along with hair and other tissues, were collected from Nuu-chah-nulth people with the hope of this research benefiting them.\nThe researcher applied for federal funding from Health Canada to: “[give] clinical definition of rheumatic disease in the Nootka; identification of all affected individuals; epidemiological analysis; definition of familial aggregation of rheumatic disease; and finally, assessment of health needs of the Nootka, with respect to the treatment of rheumatic disease.” Health Canada provided $330,000 in funding for this project.\nThe study found that many of the Nuu-chah-nulth people were in fact suffering from these inflammatory diseases, but failed to substantiate the researcher’s theory that these conditions were inherited genetically. The study was essentially abandoned and no reports were provided back to the Nuu-chah-nulth people. Even if the original hypothesis was not proven, the data had shown that the Nuu-chah-nulth people had a high prevalence of arthralgis, a condition that was often misdiagnosed as a psychosomatic disorder. This information was published in subsequent work done by a related researcher, but could have benefited the Nuu-chah-nulth people more if the information was shared earlier.\n15 years after the study began, Nuu-chah-nulth people discovered that the blood they gave (with hopes of finding a cure for their ailments) was transported around the world and used for various genetic anthropological studies. These studies were outside of the scope of the research that the Nuu-chah-nulth people consented to. The researcher’s esteem grew and national news outlets and other highly regarded researchers began citing his anthropological findings.\nThe Nuu-chah-nulth First Nation were left behind. Larry Baird, who offered his blood and the blood of his children, was quoted in a local newspaper [6] to say:\n\n“We were of the understanding that we would have the results of the study within a year, but he nevertold us anything. He disappeared. He used us like cheap guinea pigs.”\n\nIn 2004, many of the blood vials were sent back to the Nuu-chah-nulth people, and were later destroyed. This incident is regarded as one of the key studies forming regional and national guidelines for research involving Indigenous Peoples in Canada.",
+    "crumbs": [
+      "Indigenous Data Sovereignty"
+    ]
+  },
+  {
+    "objectID": "subtopics/datasov/datasov.html#background",
+    "href": "subtopics/datasov/datasov.html#background",
+    "title": "Indigenous Data Sovereignty",
+    "section": "",
+    "text": "When talking about data collection, storage, and/or usage, we often talk about health data and the nuances around handling data containing personal identifying information (PII) . Including conversations around Indigenous Data Sovereignty (IDS) is a natural extension that could naturally incorporated in lectures surrounding the use of data.\n\n\nIDS is the idea that Indigenous Peoples have the right to own and control how their data are collected, managed and used [1]. IDS came from Indigenous demands for the rights to their own data, and from campaigns from these communities against the harmful use of existing Indigenous data [1]. Early Indigenous oral traditions included a complex set of rights and responsibilities concerning its use. [2]. This is often regarded as an early expression of IDS.\nMuch like their land and territories, Indigenous Peoples want control and sovereignty over the data that has (and/or will be) collected on them [2]. This is particularly relevant in the age of “open data”, where issues relating to data consent, use, ownership, and storage have increased in complexity [2]. While data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples [2].\n\n\n\nColonization is the act of settling among and establishing control over Indigenous land and Peoples. To many, data may be seen through a colonial context as something that, too, has been taken [3].\nData on Indigenous Peoples has long been used as a weapon against them. Anderson, Walter, and Kukutai (2025( [1] write:\n\n“The violence of colonial data collection was a key strategy through which colonial authorities attempted to wrest control of Indigenous lands, lives, governing systems and collective identities. Statistical logics, classifications and taxonomies were key elements of the epistemology of colonization. Colonial officials in [Canada, Australia, New Zealand, and the United States] were endlessly fascinated with the apparent power of quantitative data to “order” and “explain” [Indigenous Peoples]’.”\n\n\n\n\nFirst Nations are one of the three recognized Indigenous Peoples in Canada.\nIn Canada, the OCAP® (ownership, control, access, possession) principles were established by the First Nations Information Governance Centre (FNIGC) for First Nations to assert data sovereignty.\n\nOwnership refers to the relationship of First Nations to their cultural knowledge, data, and information.\nControl affirms that First Nations, their communities, and representative bodies are within their rights to seek control over all aspects of research and information management processes that impact them.\nAccess refers to the fact that First Nations must have access to information and data about themselves and their communities regardless of where it is held.\nPossession is the mechanism by which ownership can be asserted and protected.\n\nNote: OCAP® is an expression of First Nations’ jurisdiction over information about their communities. The principals of OCAP® are not an expression of all Indigenous communities.\n\n\n\nTo assert OCAP® (or other data sovereignty expressions for non-First Nations Peoples), one may propose a data sharing agreement . This formal contract will ensure Indigenous Peoples are prioritized while working in partnership with non-Indigenous organizations (for example, researchers, universities, private organizations, or government).\nData sharing agreements may involve a data steward  who is responsible for receiving and maintaining the data under the agreement.\nIndigenous Peoples may assert data sovereignty in different ways. In Alberta, the Alberta First Nations Information Governance Centre (AFNIGC) created a framework for data sharing agreements, which is publicly available here [4]. In this document, the AFNIGC proposed a set of considerations when creating an agreement, which include (but are not limited to):\n\nWho are the parties involved?\nWhat kind of data sharing is involved? Is it one-sided? Does it involve a linkage of data to other sources?\nWhat type of data is being collected/stored/used? Which data will be shared?\nWhat is the scope? Is this a one-time or a continued collection/storage/usage of data?\nWhat is the purpose of the data sharing?\nWhat is the data flow?\nWho is the data steward?\nWhen will the agreement be terminated?\n\nThe AFNIGC [4] highlighted the following:\n\n“It is important to develop a data sharing agreement that outlines the nature of the partnership with non-indigenous institutions as “cultural differences, unrealistic expectations, organizational constraints, and ongoing ethical and data sharing violations can create barriers that stifle or end effective partnerships” [5]. Throughout our work at the Centre, we strive to promote a community-centered approach to information governance, data repatriation efforts, and battling information poverty. This is a tool for our First Nation partners to establish their sovereign rights as individual nations and become self-determining in their information governance.”\n\n\n\n\nThere are many examples throughout history where Indigenous Data was inappropriately used without the consent of their community members from which data were taken. In the 1980s, Nuu-chah-nulth people on Vancouver Island, Canada were enrolled in a study investigating the high incidence of rheumatoid arthritis, episodic inflammatory arthritis, and lupus in their population. Over the duration of this study, more than 800 vials of blood, along with hair and other tissues, were collected from Nuu-chah-nulth people with the hope of this research benefiting them.\nThe researcher applied for federal funding from Health Canada to: “[give] clinical definition of rheumatic disease in the Nootka; identification of all affected individuals; epidemiological analysis; definition of familial aggregation of rheumatic disease; and finally, assessment of health needs of the Nootka, with respect to the treatment of rheumatic disease.” Health Canada provided $330,000 in funding for this project.\nThe study found that many of the Nuu-chah-nulth people were in fact suffering from these inflammatory diseases, but failed to substantiate the researcher’s theory that these conditions were inherited genetically. The study was essentially abandoned and no reports were provided back to the Nuu-chah-nulth people. Even if the original hypothesis was not proven, the data had shown that the Nuu-chah-nulth people had a high prevalence of arthralgis, a condition that was often misdiagnosed as a psychosomatic disorder. This information was published in subsequent work done by a related researcher, but could have benefited the Nuu-chah-nulth people more if the information was shared earlier.\n15 years after the study began, Nuu-chah-nulth people discovered that the blood they gave (with hopes of finding a cure for their ailments) was transported around the world and used for various genetic anthropological studies. These studies were outside of the scope of the research that the Nuu-chah-nulth people consented to. The researcher’s esteem grew and national news outlets and other highly regarded researchers began citing his anthropological findings.\nThe Nuu-chah-nulth First Nation were left behind. Larry Baird, who offered his blood and the blood of his children, was quoted in a local newspaper [6] to say:\n\n“We were of the understanding that we would have the results of the study within a year, but he nevertold us anything. He disappeared. He used us like cheap guinea pigs.”\n\nIn 2004, many of the blood vials were sent back to the Nuu-chah-nulth people, and were later destroyed. This incident is regarded as one of the key studies forming regional and national guidelines for research involving Indigenous Peoples in Canada.",
+    "crumbs": [
+      "Indigenous Data Sovereignty"
+    ]
+  },
+  {
+    "objectID": "subtopics/datasov/datasov.html#lecture-content",
+    "href": "subtopics/datasov/datasov.html#lecture-content",
+    "title": "Indigenous Data Sovereignty",
     "section": "Lecture Content",
-    "text": "Lecture Content\n\n\n\n\n\nReferences"
+    "text": "Lecture Content\n\nA first course in statistics\n\nWhen talking introducing data/data management, explicitly define Indigenous Data Sovereignty (IDS)\nConnect IDS to colonialism, and mention ways to assert IDS as a user of data\nTalk about the historical misuse of data on Indigenous Peoples, and the impacts of studies on their (and other marginalized) communities\n\n\n\nUpper-year Research Courses\n\nShare examples of data sharing agreements that could be used with Indigenous communities and research partners",
+    "crumbs": [
+      "Indigenous Data Sovereignty"
+    ]
+  },
+  {
+    "objectID": "subtopics/datasov/datasov.html#sample-slides",
+    "href": "subtopics/datasov/datasov.html#sample-slides",
+    "title": "Indigenous Data Sovereignty",
+    "section": "Sample Slides",
+    "text": "Sample Slides\nSource Code\n\n\n    \n\n\nReferences\n\n\n[1] Andersen C, Walter M, Kukutai T, Gabel C. Indigenous Statistics. 2nd ed. Routledge; 2025. https://doi.org/10.4324/9781003173342.\n\n\n[2] Kukutai T, Taylor J. Indigenous data sovereignty: Toward an agenda. ANU press; 2016.\n\n\n[3] Rodriguez-Lonebear D. Building a data revolution in indian country. Indigenous Data Sovereignty: Toward an Agenda 2016;14:253–72.\n\n\n[4] Yao K. Framework for a data sharing agreement. Calgary, AB: Alberta First Nations Information Governance Centre; 2024.\n\n\n[5] Harding A, Harper B, Stone D, O’Neill C, Berger P, Harris S, et al. Conducting research with tribal communities: Sovereignty, ethics, and data-sharing issues. Environmental Health Perspectives 2011;120:6.\n\n\n[6] Wiwchar D. Nuu-chah-nulth blood returns to west coast. Ha-Shilth-Sa 2004;31:1, 3–4.",
+    "crumbs": [
+      "Indigenous Data Sovereignty"
+    ]
+  },
+  {
+    "objectID": "contributors.html",
+    "href": "contributors.html",
+    "title": "Contributors",
+    "section": "",
+    "text": "This project is led by Dr. Grace Tompkins, Assistant Professor of Teaching in the Department of Statistics at the University of British Columbia, situated on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam) people. She is settler of English, Irish, and French descent who was born and raised in Mi’kma’ki (Nova Scotia). Grace is passionate about inclusive statistics and data science education.\n\nThank you to the following people who consulted on this project:\n\nWarren Cardinal-McTeague (UBC Forestry and Environmental Stewardship)\nSamantha Nock (Indigenous Initiatives, CTLT)\nKarleen Delaurier-Lyle (Xwi7xwa Librarian)"
+  },
+  {
+    "objectID": "topics/datatypes/datatypes.html",
+    "href": "topics/datatypes/datatypes.html",
+    "title": "Types of Data",
+    "section": "",
+    "text": "The following module(s) can be integrated into lectures involving discussions around the types of data we encounter in practice:\n\n\n\n\n\n\n\nData Involving Race and Ethnicity\n\n\n\n\n\n\n\n\n\n\n\n\n\nOral Traditions\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Types of Data"
+    ]
   },
   {
     "objectID": "topics/ethics/ethics.html",
@@ -199,47 +265,5 @@
     "crumbs": [
       "Ethics"
     ]
-  },
-  {
-    "objectID": "topics/collectingstoringusingdata/datasov/slides/index.html#data-management",
-    "href": "topics/collectingstoringusingdata/datasov/slides/index.html#data-management",
-    "title": "Data Management: Example Slides",
-    "section": "Data Management",
-    "text": "Data Management\n\n\nData management refers to the way that data is collected, used, and stored.\nIn many cases, data contains sensitive information, such as personal identifying information (PII) like names, addresses, and birth dates, or sensitive health-related data.\nData involving PII should be:\n\nEncrypted\nOnly accessible by authorized users\nAnonymized (where possible)\nUsed on a “need-to-know” basis"
-  },
-  {
-    "objectID": "topics/collectingstoringusingdata/datasov/slides/index.html#data-on-indigenous-peoples",
-    "href": "topics/collectingstoringusingdata/datasov/slides/index.html#data-on-indigenous-peoples",
-    "title": "Data Management: Example Slides",
-    "section": "Data on Indigenous Peoples",
-    "text": "Data on Indigenous Peoples\n\nCaution should be exercised when managing data on Indigenous Peoples.\nTo many, data may be seen through a colonial context as something that, too, has been taken (Rodriguez-Lonebear 2016).\n\nColonization: the act of settling among and establishing control over Indigenous land and Peoples\n\nData on Indigenous Peoples has also been used as a weapon against them to gain control over them by colonial settlers."
-  },
-  {
-    "objectID": "topics/collectingstoringusingdata/datasov/slides/index.html#data-on-indigenous-peoples-ids",
-    "href": "topics/collectingstoringusingdata/datasov/slides/index.html#data-on-indigenous-peoples-ids",
-    "title": "Data Management: Example Slides",
-    "section": "Data on Indigenous Peoples: IDS",
-    "text": "Data on Indigenous Peoples: IDS\n\nIndigenous Data Sovereignty (IDS):the idea that Indigenous Peoples have the right to own and control how their data are collected, managed and used (Andersen et al. 2025).\n\nStems from Indigenous demands for the rights to their own data, and the harmful misuse of existing Indigenous data (Andersen et al. 2025).\n\nIDS is particularly relevant in the age of “open data”, where issues relating to data consent, use, ownership, and storage have increased in complexity (Kukutai and Taylor 2016)."
-  },
-  {
-    "objectID": "topics/collectingstoringusingdata/datasov/slides/index.html#data-on-indigenous-peoples-discussion",
-    "href": "topics/collectingstoringusingdata/datasov/slides/index.html#data-on-indigenous-peoples-discussion",
-    "title": "Data Management: Example Slides",
-    "section": "Data on Indigenous Peoples: Discussion",
-    "text": "Data on Indigenous Peoples: Discussion\n\nWhy might Indigenous Peoples want control over how their data is collected, stored, and used? Discuss in small groups.\n\n\n\nPossible Answer:\n\nWhile data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples (Kukutai and Taylor 2016).\nSuch biases can be harmful to Indigenous Peoples."
-  },
-  {
-    "objectID": "topics/collectingstoringusingdata/datasov/slides/index.html#continue-the-lecture",
-    "href": "topics/collectingstoringusingdata/datasov/slides/index.html#continue-the-lecture",
-    "title": "Data Management: Example Slides",
-    "section": "Continue the Lecture!",
-    "text": "Continue the Lecture!\n(Continue talking about Data Management as you would in a typical offering of your course.)"
-  },
-  {
-    "objectID": "topics/collectingstoringusingdata/datasov/slides/index.html#references",
-    "href": "topics/collectingstoringusingdata/datasov/slides/index.html#references",
-    "title": "Data Management: Example Slides",
-    "section": "References",
-    "text": "References\n\n\n\n\nAndersen, C., M. Walter, T. Kukutai, and C. Gabel. 2025. Indigenous Statistics. 2nd ed. From Data Deficits to Data Sovereignty. Routledge. https://doi.org/10.4324/9781003173342.\n\n\nKukutai, Tahu, and John Taylor. 2016. Indigenous Data Sovereignty: Toward an Agenda. ANU press.\n\n\nRodriguez-Lonebear, Desi. 2016. “Building a Data Revolution in Indian Country.” Indigenous Data Sovereignty: Toward an Agenda 14: 253–72."
   }
 ]

@@ -1,0 +1,125 @@
+---
+title: "Indigenous Data Sovereignty"
+format: 
+  html:
+    css: ../../styles.css
+bibliography: ../../bibliography/ISDSE.bib
+csl: ../../bibliography/elsevier-vancouver.csl
+---
+
+## Background
+
+When talking about data collection, storage, and/or usage, we often talk about health data and the nuances around handling data containing {{< var glossary.PII >}}. Including conversations around {{< var glossary.IndigenousDataSov >}} is a natural extension that could naturally incorporated in lectures surrounding the use of data.
+
+### What is Indigenous Data Sovereignty?
+
+IDS is the idea that {{< var glossary.IndigenousPeoples >}} have the right to own and control how their data are collected, managed and used [@andersen_2025]. IDS came from Indigenous demands for the rights to their own data, and from campaigns from these communities against the harmful use of existing Indigenous data [@andersen_2025]. Early Indigenous oral traditions included a complex set of rights and responsibilities concerning its use. [@kukutai_2016]. This is often regarded as an early expression of IDS.
+
+Much like their land and territories, Indigenous Peoples want control and sovereignty over the data that has (and/or will be) collected on them [@kukutai_2016]. This is particularly relevant in the age of "open data", where issues relating to data consent, use, ownership, and storage have increased in complexity [@kukutai_2016]. While data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples [@kukutai_2016].
+
+### IDS and Colonization
+
+{{< var glossary.Colonization >}} is the act of settling among and establishing control over Indigenous land and Peoples. To many, data may be seen through a colonial context as something that, too, has been taken [@rodriguez_2016].
+
+Data on Indigenous Peoples has long been used as a weapon against them. Anderson, Walter, and Kukutai (2025( @andersen_2025 write:
+
+> "The violence of colonial data collection was a key strategy through which colonial authorities attempted to wrest control of Indigenous lands, lives, governing systems and collective identities. Statistical logics, classifications and taxonomies were key elements of the epistemology of colonization. Colonial officials in \[Canada, Australia, New Zealand, and the United States\] were endlessly fascinated with the apparent power of quantitative data to “order” and “explain” \[Indigenous Peoples\]'."
+
+### Data Sovereignty in First Nations in Canada
+
+{{< var glossary.FirstNations >}} are one of the three recognized Indigenous Peoples in Canada. 
+
+In Canada, the {{< var glossary.OCAP >}}  (*ownership, control, access, possession*) principles were established by the First Nations Information Governance Centre (FNIGC) for First Nations to assert data sovereignty. 
+
+-   **Ownership** refers to the relationship of First Nations to their cultural knowledge, data, and information.
+
+-   **Control** affirms that First Nations, their communities, and representative bodies are within their rights to seek control over all aspects of research and information management processes that impact them. 
+
+-   **Access** refers to the fact that First Nations must have access to information and data about themselves and their communities regardless of where it is held. 
+
+-   **Possession** is the mechanism by which ownership can be asserted and protected.
+
+
+*Note: OCAP® is an expression of First Nations' jurisdiction over information about their communities. The principals of OCAP® are not an expression of all Indigenous communities.*
+
+### Data Sharing Agreements
+
+To assert OCAP® (or other data sovereignty expressions for non-First Nations Peoples), one may propose a {{< var glossary.DSA >}}. This formal contract will ensure Indigenous Peoples are prioritized while working in partnership with non-Indigenous organizations (for example, researchers, universities, private organizations, or government).
+
+Data sharing agreements may involve a {{< var glossary.Steward >}} who is responsible for receiving and maintaining the data under the agreement.
+
+Indigenous Peoples may assert data sovereignty in different ways. In Alberta, the Alberta First Nations Information Governance Centre (AFNIGC) created a framework for data sharing agreements, which is publicly available [here](https://afnigc.ca/wp-content/uploads/2024/06/Data-Sharing-Agreement-Full-2024.pdf) [@AFNIGC2024]. In this document, the AFNIGC proposed a set of considerations when creating an agreement, which include (but are not limited to):
+
+- Who are the parties involved?
+- What kind of data sharing is involved? Is it one-sided? Does it involve a linkage of data to other sources?
+- What type of data is being collected/stored/used? Which data will be shared?
+- What is the scope? Is this a one-time or a continued collection/storage/usage of data?
+- What is the purpose of the data sharing?
+- What is the data flow?
+- Who is the data steward? 
+- When will the agreement be terminated?
+
+The AFNIGC [@AFNIGC2024] highlighted the following:
+
+> "It is important to develop a data sharing agreement that outlines the nature of the partnership with non-indigenous institutions as “cultural differences, unrealistic expectations, organizational constraints, and ongoing ethical and data sharing violations can create barriers that stifle or end effective partnerships” [@harding2011conducting]. Throughout our work at the Centre, we strive to promote a community-centered approach to information governance, data repatriation efforts, and battling information poverty. This is a tool for our First Nation partners to establish their sovereign rights as individual nations and become self-determining in their information governance."
+
+### Historical Example: The Nuu-chah-nulth People and Their Blood Vials
+
+There are many examples throughout history where Indigenous Data was inappropriately used without the consent of their community members from which data were taken. In the 1980s, Nuu-chah-nulth people on Vancouver Island, Canada were enrolled in a study investigating the high incidence of rheumatoid arthritis, episodic inflammatory arthritis, and lupus in their population. Over the duration of this study, more than 800 vials of blood, along with hair and other tissues, were collected from Nuu-chah-nulth people with the hope of this research benefiting them.
+
+The researcher applied for federal funding from Health Canada to: “[give] clinical definition of rheumatic disease in the Nootka; identification of all affected individuals; epidemiological analysis; definition of familial aggregation of rheumatic disease; and finally, assessment of health needs of the Nootka, with respect to the treatment of rheumatic disease.” Health Canada provided $330,000 in funding for this project.
+
+The study found that many of the Nuu-chah-nulth people were in fact suffering from these inflammatory diseases, but failed to substantiate the researcher's theory that these conditions were inherited genetically. The study was essentially abandoned and no reports were provided back to the Nuu-chah-nulth people. Even if the original hypothesis was not proven, the data had shown that the Nuu-chah-nulth people had a high prevalence of arthralgis, a condition that was often misdiagnosed as a psychosomatic disorder. This information was published in subsequent work done by a related researcher, but could have benefited the Nuu-chah-nulth people more if the information was shared earlier. 
+
+15 years after the study began, Nuu-chah-nulth people discovered that the blood they gave (with hopes of finding a cure for their ailments) was transported around the world and used for various genetic anthropological studies. These studies were outside of the scope of the research that the Nuu-chah-nulth people consented to. The researcher's esteem grew and national news outlets and other highly regarded researchers began citing his anthropological findings. 
+
+The Nuu-chah-nulth First Nation were left behind. Larry Baird, who offered his blood and the blood of his children, was quoted in a local newspaper [@wiwchar2004] to say:
+
+> "We were of the understanding that we would have the results of the study within a year, but he nevertold us anything. He disappeared. He used us like cheap guinea pigs."
+
+In 2004, many of the blood vials were sent back to the Nuu-chah-nulth people, and were later destroyed. This incident is regarded as one of the key studies forming regional and national guidelines for research involving Indigenous Peoples in Canada. 
+
+## Lecture Content
+
+### A first course in statistics
+
+-   When talking introducing data/data management, **explicitly define Indigenous Data Sovereignty (IDS)**
+
+-   Connect IDS to colonialism, and mention ways to assert IDS as a user of data
+
+-   Talk about the historical misuse of data on Indigenous Peoples, and the impacts of studies on their (and other marginalized) communities
+
+### Upper-year Research Courses
+
+-   Share examples of data sharing agreements that could be used with Indigenous communities and research partners
+
+------------------------------------------------------------------------
+
+## Sample Slides
+
+[Source Code](https://github.com/grcetmpk/IndigenizingSDSE.github.io/blob/main/topics/collectingstoringusingdata/datasov/slides/index.qmd)
+
+```{=html}
+<style>
+      .slide-deck {
+        border: 3px solid #dee2e6;
+        width: 100%;
+        height: 475px; /* Adjust height as needed */
+      }
+</style>
+```
+
+<div>
+
+```{=html}
+    <iframe class="slide-deck" src="slides/"></iframe>
+```
+
+</div>
+
+### References
+
+::: {#refs}
+:::
+
+

@@ -1,0 +1,53 @@
+---
+title: "Glossary"
+format: html
+include-after-body:
+  text: |
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'))
+      var popoverList = popoverTriggerList.map(function (popoverTriggerEl) {
+        return new bootstrap.Popover(popoverTriggerEl, {
+          html: true,        // Allows the <a> tag to render
+          sanitize: false    // Prevents Bootstrap from stripping the link for security
+        })
+      })
+    })
+    </script>
+---
+
+
+Below is a complete list of terms and definitions used in the ISDSE project. We follow the conventions of referencing Indigenous Peoples/peoples [here](https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/capitalization-indigenous-person-people). 
+
+```{r}
+#| echo: false
+#| results: asis
+#| warning: false
+
+library(yaml)
+vars <- read_yaml("../_variables.yml")
+glossary_list <- vars$glossary
+
+print_sorted_glossary <- function(g_list) {
+  # 1. Extract titles and definitions into a data frame for easy sorting
+  extracted <- lapply(g_list, function(item) {
+    title <- regmatches(item, regexec('title="([^"]*)"', item))[[1]][2]
+    definition <- regmatches(item, regexec('data-bs-content="([^"]*)"', item))[[1]][2]
+    return(c(title = title, def = definition))
+  })
+  
+  df <- as.data.frame(do.call(rbind, extracted), stringsAsFactors = FALSE)
+  
+  # 2. Sort by title (alphabetical order)
+  df_sorted <- df[order(df$title), ]
+  
+  # 3. Print the results
+  for (i in 1:nrow(df_sorted)) {
+    cat(paste0("**", df_sorted$title[i], "**: ", df_sorted$def[i], "\n\n"))
+  }
+}
+
+print_sorted_glossary(glossary_list)
+```
+
+

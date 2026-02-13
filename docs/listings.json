@@ -2,26 +2,26 @@
   {
     "listing": "/topics/collectingstoringusingdata/collectingstoringusingdata.html",
     "items": [
-      "/topics/collectingstoringusingdata/datasov/datasov.html"
-    ]
-  },
-  {
-    "listing": "/topics/datatypes/datatypes.html",
-    "items": [
-      "/topics/datatypes/categoricaldata/categoricaldata.html",
-      "/topics/datatypes/oraltraditions/oraltraditions.html"
+      "/subtopics/datasov/datasov.html"
     ]
   },
   {
     "listing": "/topics/researchmethods/researchmethods.html",
     "items": [
-      "/topics/researchmethods/ppdac/ppdac.html"
+      "/subtopics/ppdac/ppdac.html"
+    ]
+  },
+  {
+    "listing": "/topics/datatypes/datatypes.html",
+    "items": [
+      "/subtopics/categoricaldata/categoricaldata.html",
+      "/subtopics/oraltraditions/oraltraditions.html"
     ]
   },
   {
     "listing": "/topics/ethics/ethics.html",
     "items": [
-      "/topics/ethics/unethicalstudies/unethicalstudies.html"
+      "/subtopics/unethicalstudies/unethicalstudies.html"
     ]
   }
 ]

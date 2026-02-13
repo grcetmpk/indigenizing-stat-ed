@@ -6,13 +6,13 @@ listing:
     image-height: 150px
     fields: [title, description]
     contents: 
-      - datasov/datasov.qmd
+      - ../../subtopics/datasov/datasov.qmd
     type: grid
     grid-item-border: true
     sort: false
 ---
 
-The following modules can be integrated into lectures involving the collection, storing, or using (analyzing) of data: 
+The following module(s) can be integrated into lectures involving the collection, storing, or using (analyzing) of data: 
 
 ::: {#csu}
 :::

@@ -9,19 +9,18 @@ website:
       - href: index.qmd
         text: Home
       - sidebar:topics
+      - sidebar:subtopics
+      - glossary/glossary.qmd
       - contributors.qmd
       - guestbook.qmd
       - additionalresources.qmd
-    
     right:
       - href: "https://github.com/grcetmpk/IndigenizingSDSE.github.io"
         icon: github
 
-
-
   sidebar:
     - id: topics
-      title: "Topics"
+      title: "Statistical Topics"
       style: "docked"
       background: light
       collapse-level: 2
@@ -30,14 +29,38 @@ website:
         - topics/datatypes/datatypes.qmd
         - topics/ethics/ethics.qmd
         - topics/researchmethods/researchmethods.qmd
-
+        
+    - id: subtopics
+      title: "Subtopics"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents: 
+        - subtopics/datasov/datasov.qmd
+        - subtopics/categoricaldata/categoricaldata.qmd
+        - subtopics/oraltraditions/oraltraditions.qmd
 format:
   html:
-    theme:
-      - litera
-      - brand
+    theme: [litera, brand]
+    include-in-header:
+      - text: |
+          <style>
+          .glossary-term { 
+            border-bottom: 2px dotted #007bff; 
+            cursor: help; 
+            color: #007bff; 
+            font-weight: 500;
+          }
+          </style>
+    include-after-body: 
+      - text: |
+          <script>
+          document.addEventListener("DOMContentLoaded", function() {
+            var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'))
+            popoverTriggerList.map(function (el) {
+              return new bootstrap.Popover(el, { trigger: 'hover focus', html: true })
+            })
+          });
+          </script>
     css: styles.css
     toc: true
-
-
-

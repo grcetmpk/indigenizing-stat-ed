@@ -1,0 +1,34 @@
+glossary:
+  IndigenousPeoples: '<span class="glossary-term" 
+  data-bs-toggle="popover" title="Indigenous Peoples" 
+  data-bs-content="a collective name for the original peoples of North America and their descendants. The Canadian Constitution recognizes 3 groups of Indigenous peoples: First Nations, Inuit, and Métis. These are 3 distinct peoples with unique histories, languages, cultural practices and spiritual beliefs.">Indigenous Peoples</span>'
+
+  IndigenousDataSov: '<span class="glossary-term" 
+  data-bs-toggle="popover" title="Indigenous Data Sovereignty (IDS)" 
+  data-bs-content="the right of {{< var glossary.IndigenousPeoples >}} to own and control how their data are collected, managed and used">Indigenous Data Sovereignty (IDS)</span>'
+
+  Colonization: '<span class="glossary-term" 
+  data-bs-toggle="popover" title="Colonization" 
+  data-bs-content="the act of settling among and establishing control over Indigenous land and Peoples.">Colonization</span>'
+
+  OCAP: '<span class="glossary-term" 
+  data-bs-toggle="popover" title="OCAP®" 
+  data-bs-content="principles or ownership, control, access, possession established by the First Nations Information Governance Centre (FNIGC) for First Nations to assert data sovereignty. See [https://fnigc.ca/ocap-training/](https://fnigc.ca/ocap-training/). ">OCAP®</span>'
+
+  FirstNations: '<span class="glossary-term" 
+  data-bs-toggle="popover" title="First Nations" 
+  data-bs-content="one of three recognized Indigenous Peoples in Canada, which includes Status and non-Status Indians. There are over 630 First Nations communities in Canada, which represent more than 50 Nations and 50 Indigenous languages.">First Nations</span>'
+
+  PII: '<span class="glossary-term" 
+  data-bs-toggle="popover" title="personal identifying information (PII)" 
+  data-bs-content="any data that can be used to identify a specific individual, either on its own or when combined with other information.">personal identifying information (PII) </span>'
+
+  DSA: '<span class="glossary-term" 
+  data-bs-toggle="popover" title="Data sharing agreement" 
+  data-bs-content="formal contract between parties that outlines the terms, conditions, and purpose for sharing, using, and protecting data.">data sharing agreement </span>'
+
+  Steward: '<span class="glossary-term" 
+  data-bs-toggle="popover" title="Data steward" 
+  data-bs-content=" the organization responsible for receiving and maintaining the Data and First Nation Data shared under the data sharing agreement.">data steward </span>'
+
+

@@ -1,0 +1,22 @@
+---
+title: "Indigenous Research Methods"
+format: html
+bibliography: ../../bibliography/ISDSE.bib
+csl: ../../bibliography/elsevier-vancouver.csl
+---
+
+## Background
+
+
+
+
+## Lecture Content
+
+-   
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::

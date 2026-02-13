@@ -66,6 +66,14 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>
+.glossary-term { 
+  border-bottom: 2px dotted #007bff; 
+  cursor: help; 
+  color: #007bff; 
+  font-weight: 500;
+}
+</style>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -93,10 +101,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-topics" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Topics</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-statistical-topics" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Statistical Topics</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-topics">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-statistical-topics">    
         <li>
     <a class="dropdown-item" href="./topics/collectingstoringusingdata/collectingstoringusingdata.html">
  <span class="dropdown-text">Collecting, Storing, and Using Data</span></a>
@@ -115,6 +123,29 @@ ul.task-list li input[type="checkbox"] {
   </li>  
     </ul>
   </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-subtopics" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Subtopics</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-subtopics">    
+        <li>
+    <a class="dropdown-item" href="./subtopics/datasov/datasov.html">
+ <span class="dropdown-text">Indigenous Data Sovereignty</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./subtopics/categoricaldata/categoricaldata.html">
+ <span class="dropdown-text">Data Involving Race and Ethnicity</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./subtopics/oraltraditions/oraltraditions.html">
+ <span class="dropdown-text">Oral Traditions</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./glossary/glossary.html"> 
+<span class="menu-text">Glossary</span></a>
+  </li>  
   <li class="nav-item">
     <a class="nav-link" href="./contributors.html"> 
 <span class="menu-text">Contributors</span></a>
@@ -593,6 +624,14 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'))
+  popoverTriggerList.map(function (el) {
+    return new bootstrap.Popover(el, { trigger: 'hover focus', html: true })
+  })
+});
+</script>
 
 
 

@@ -1,0 +1,33 @@
+---
+title: "Categorical Variables: Example Slides"
+author: Grace Tompkins
+format: 
+  revealjs:
+    theme: simple
+    smaller: true
+
+---
+
+## Categorical Variables
+
+
+
+## Categorical Variables: Race and Ethnicity
+
+
+
+## Categorical Variables: Discussion
+
+-   Why might Indigenous Peoples want control over how their data is collected, stored, and used? Discuss in small groups.
+
+::: incremental
+-   Possible Answer:
+    -   *While data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples* [@kukutai_2016].
+    -   *Such biases can be harmful to Indigenous Peoples*.
+:::
+
+## Continue the Lecture!
+
+*(Continue talking about Data Management as you would in a typical offering of your course.)*
+
+## References

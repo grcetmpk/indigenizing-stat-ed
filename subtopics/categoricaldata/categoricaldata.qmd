@@ -1,0 +1,67 @@
+---
+title: "Data Involving Race and Ethnicity"
+format: 
+  html:
+    css: ../../styles.css
+bibliography: ../../bibliography/ISDSE.bib
+csl: ../../bibliography/elsevier-vancouver.csl
+---
+
+## Background
+
+Variables related to race and ethnicity are present in most studies involving human data. However the the lack of standardized guidelines in including such variables in analyses can lead to biased inferences for many underrepresented populations [@sharghi2024race]. Oftentimes, race and ethnicity categories are coarsened to have a more reasonable number of possible levels., thus omitting complex racial and ethnic identities which are grouped into broader categories. These may not account for the unique lived experiences of smaller or mixed-race identities) [@sharghi2024race]. Such simplifications may lead marginalized groups to be underrepresented in studies, furthering the feeling of invisibility and a lack of belonging [@sharghi2024race].
+
+We explicitly define **race** as a group of people who are arbitrarily categorized according to common physical characteristics, regardless of language, culture or nationality, as per Statistics Canada. We define **ethnicity** as the shared cultural, linguistic or religious characteristics of a group of people having a common history, heritage or ancestry. While these terms are often used interchangeably, there is a distinct difference which we emphasize here.
+
+The ways in which we present classifications of variables related to both race and ethnicity can have profound impacts on marginalized communities. "White" is frequently shown at the top of tables, and typically used as a reference group to which other groups are compared [@sharghi2024race]. Doing so can reinforce ideas of white supremacy, stemming from Colonialism.
+
+Classifications and taxonomies were key elements of colonization over Indigenous Peoples. Colonial officials in Canada, Australia, New Zealand, and the United States used the power of quantitative data to “order” and “explain” Indigenous Peoples [@andersen_2025]. In the United States, American Indian/Alaska Native identity is often not considered as a category when variables on race are collected, resulting in the erasure of American Indian/Alaska Native Peoples in studies [@sharghi2024race].
+
+In Canada, Métis have typically been recognised as a "mixed-descent identity", which undermines the Métis Nation as a self-governing Indigenous nation with associated rights [@andersen_2025].
+
+There have been ongoing discussions on how to appropriately include considerations of race and ethnicity into studies, including [a guide for researchers in British Columbia.](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/multiculturalism-anti-racism/anti-racism/anti-racism-hub/anti-racism-stats-and-research/arda_categoricalraceethnicityvariables2023.pdf)
+
+A guide summarizing how Indigenous Peoples were represented in the Canadian Census from 1870 to 2021, see @orlandini2021guide.
+
+## Lecture Content
+
+-   Define race
+
+-   Define ethnicity
+
+-   Discuss how variables with many categories may be desirable to condense into broader categories from a statistical standpoint
+
+-   Discuss how this may impact marginalized communities, particularly Indigenous Peoples
+
+-   Discuss how the way we present categories can contribute to damaging perceptions of marginalized communities, including Indigenous Peoples.
+
+-   Provide resources for students to learn how to appropriately include factors related to race and ethnicity in their own research (if applicable).
+
+## Sample Slides
+
+[Source Code](https://github.com/grcetmpk/IndigenizingSDSE.github.io/blob/main/topics/datatypes/categoricaldata/categoricaldata.qmd)
+
+```{=html}
+<style>
+      .slide-deck {
+        border: 3px solid #dee2e6;
+        width: 100%;
+        height: 475px; /* Adjust height as needed */
+      }
+</style>
+```
+
+<div>
+
+```{=html}
+    <iframe class="slide-deck" src="slides/"></iframe>
+```
+
+</div>
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::

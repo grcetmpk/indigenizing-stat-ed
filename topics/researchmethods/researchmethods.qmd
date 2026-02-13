@@ -6,7 +6,7 @@ listing:
     image-height: 150px
     fields: [title, description]
     contents: 
-      - ppdac
+      - ../../subtopics/ppdac/ppdac.qmd
     type: grid
     grid-item-border: true
     sort: false

@@ -97,6 +97,14 @@ ul.task-list li input[type="checkbox"] {
     }
   })
   </script>
+<style>
+.glossary-term { 
+  border-bottom: 2px dotted #007bff; 
+  cursor: help; 
+  color: #007bff; 
+  font-weight: 500;
+}
+</style>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -153,10 +161,10 @@ window.Quarto = {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-topics" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Topics</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-statistical-topics" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Statistical Topics</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-topics">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-statistical-topics">    
         <li>
     <a class="dropdown-item" href="../../topics/collectingstoringusingdata/collectingstoringusingdata.html">
  <span class="dropdown-text">Collecting, Storing, and Using Data</span></a>
@@ -175,6 +183,29 @@ window.Quarto = {
   </li>  
     </ul>
   </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-subtopics" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Subtopics</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-subtopics">    
+        <li>
+    <a class="dropdown-item" href="../../subtopics/datasov/datasov.html">
+ <span class="dropdown-text">Indigenous Data Sovereignty</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../subtopics/categoricaldata/categoricaldata.html">
+ <span class="dropdown-text">Data Involving Race and Ethnicity</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../subtopics/oraltraditions/oraltraditions.html">
+ <span class="dropdown-text">Oral Traditions</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../../glossary/glossary.html"> 
+<span class="menu-text">Glossary</span></a>
+  </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../contributors.html"> 
 <span class="menu-text">Contributors</span></a>
@@ -271,18 +302,18 @@ window.Quarto = {
 </header>
 
 
-<p>The following modules can be integrated into lectures involving the collection, storing, or using (analyzing) of data:</p>
+<p>The following module(s) can be integrated into lectures involving the collection, storing, or using (analyzing) of data:</p>
 <div id="listing-csu" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1763149554396" data-listing-reading-time-sort="3" data-listing-word-count-sort="420">
-<a href="../../topics/collectingstoringusingdata/datasov/datasov.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1770942034899" data-listing-reading-time-sort="7" data-listing-word-count-sort="1357">
+<a href="../../subtopics/datasov/datasov.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Data Sovereignty
+Indigenous Data Sovereignty
 </h5>
 <div class="card-text listing-description">
-When talking about data collection, storage, and/or uses, we often talk about health data and being careful with <em>personal identifying information</em> (PII). Including conversations around <em>Indigenous Data Sovereignty</em> (IDS) is a natural extension that could easily be included in lectures for this topic.
+When talking about data collection, storage, and/or usage, we often talk about health data and the nuances around handling data containing <span class="glossary-term" data-bs-toggle="popover" title="personal identifying information (PII)" data-bs-content="any data that can be used to identify a specific individual, either on its own or when combined with other information.">personal identifying information (PII) </span>. Including conversations around <span class="glossary-term" data-bs-toggle="popover" title="Indigenous Data Sovereignty (IDS)" data-bs-content="the right of Indigenous Peoples to own and control how their data are collected, managed and used">Indigenous Data Sovereignty (IDS)</span> is a natural extension that could naturally incorporated in lectures surrounding the use of data.
 </div>
 </div>
 </div>
@@ -716,6 +747,14 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'))
+  popoverTriggerList.map(function (el) {
+    return new bootstrap.Popover(el, { trigger: 'hover focus', html: true })
+  })
+});
+</script>
 
 
 

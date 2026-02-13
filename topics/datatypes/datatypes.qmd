@@ -6,14 +6,14 @@ listing:
     image-height: 150px
     fields: [title, description]
     contents: 
-      - categoricaldata/categoricaldata.qmd
-      - oraltraditions/oraltraditions.qmd
+      - ../../subtopics/categoricaldata/categoricaldata.qmd
+      - ../../subtopics/oraltraditions/oraltraditions.qmd
     type: grid
     grid-item-border: true
     sort: false
 ---
 
-The following modules can be integrated into lectures involving discussions around the types of data we encounter in practice:
+The following module(s) can be integrated into lectures involving discussions around the types of data we encounter in practice:
 
 ::: {#tod}
 :::
