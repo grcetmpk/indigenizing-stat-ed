@@ -52,6 +52,7 @@ format:
             font-weight: 500;
           }
           </style>
+      - privacypolicy/google-analytics.html
     include-after-body: 
       - text: |
           <script>
@@ -62,5 +63,6 @@ format:
             })
           });
           </script>
+      - privacypolicy/custom-popup.html
     css: styles.css
     toc: true
