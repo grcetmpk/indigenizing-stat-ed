@@ -4,7 +4,7 @@
     "href": "topics/collectingstoringusingdata/collectingstoringusingdata.html",
     "title": "Collecting, Storing, and Using Data",
     "section": "",
-    "text": "The following module(s) can be integrated into lectures involving the collection, storing, or using (analyzing) of data:\n\n\n\n\n\n\n\nIndigenous Data Sovereignty\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "The following module(s) can be integrated into lectures involving the collection, storing, or using (analyzing) of data:\n\n\n\n\n\n\n\nIndigenous Data Sovereignty\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Collecting, Storing, and Using Data"
     ]
@@ -14,7 +14,7 @@
     "href": "topics/researchmethods/researchmethods.html",
     "title": "Research Methods",
     "section": "",
-    "text": "The following modules can be integrated into lectures involving discussions around research methods:\n\n\n\n\n\n\n\nPPDAC\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "The following modules can be integrated into lectures involving discussions around research methods:\n\n\n\n\n\n\n\nPPDAC\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Research Methods"
     ]
@@ -173,8 +173,8 @@
     "objectID": "subtopics/datasov/slides/index.html#data-management",
     "href": "subtopics/datasov/slides/index.html#data-management",
     "title": "Data Management: Example Slides",
-    "section": "Data Management",
-    "text": "Data Management\n\n\nData management refers to the way that data is collected, used, and stored.\nIn many cases, data contains sensitive information, such as personal identifying information (PII) like names, addresses, and birth dates, or sensitive health-related data.\nData involving PII should be:\n\nEncrypted\nOnly accessible by authorized users\nAnonymized (where possible)\nUsed on a “need-to-know” basis"
+    "section": "",
+    "text": "Data management refers to the way that data is collected, used, and stored.\nIn many cases, data contains sensitive information, such as personal identifying information (PII) like names, addresses, and birth dates, or sensitive health-related data.\nData involving PII should be:\n\nEncrypted\nOnly accessible by authorized users\nAnonymized (where possible)\nUsed on a “need-to-know” basis"
   },
   {
     "objectID": "subtopics/datasov/slides/index.html#indigenous-data",
@@ -272,7 +272,7 @@
     "href": "topics/datatypes/datatypes.html",
     "title": "Types of Data",
     "section": "",
-    "text": "The following module(s) can be integrated into lectures involving discussions around the types of data we encounter in practice:\n\n\n\n\n\n\n\nData Involving Race and Ethnicity\n\n\n\n\n\n\n\n\n\n\n\n\n\nOral Traditions\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "The following module(s) can be integrated into lectures involving discussions around the types of data we encounter in practice:\n\n\n\n\n\n\n\nData Involving Race and Ethnicity\n\n\n\n\n\n\n\n\n\n\n\n\nOral Traditions\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Types of Data"
     ]
@@ -282,9 +282,16 @@
     "href": "topics/ethics/ethics.html",
     "title": "Ethics",
     "section": "",
-    "text": "The following modules can be integrated into lectures involving discussions around the ethics:\n\n\n\n\n\n\n\nInappropriate Uses of Indigenous Data\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "The following modules can be integrated into lectures involving discussions around the ethics:\n\n\n\n\n\n\n\nInappropriate Uses of Indigenous Data\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Ethics"
     ]
+  },
+  {
+    "objectID": "subtopics/datasov/slides/index.html",
+    "href": "subtopics/datasov/slides/index.html",
+    "title": "Data Management: Example Slides",
+    "section": "",
+    "text": "Data management refers to the way that data is collected, used, and stored.\nIn many cases, data contains sensitive information, such as personal identifying information (PII) like names, addresses, and birth dates, or sensitive health-related data.\nData involving PII should be:\n\nEncrypted\nOnly accessible by authorized users\nAnonymized (where possible)\nUsed on a “need-to-know” basis"
   }
 ]
