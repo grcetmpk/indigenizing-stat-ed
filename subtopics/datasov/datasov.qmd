@@ -112,7 +112,7 @@ In 2004, many of the blood vials were sent back to the Nuu-chah-nulth people, an
 <div>
 
 ```{=html}
-    <iframe class="slide-deck" src="slides/"></iframe>
+    <iframe class="slide-deck" src="slides/index.html"></iframe>
 ```
 
 </div>

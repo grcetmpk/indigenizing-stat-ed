@@ -153,7 +153,7 @@
     "href": "subtopics/categoricaldata/slides/index.html#categorical-variables-discussion",
     "title": "Categorical Variables: Example Slides",
     "section": "Categorical Variables: Discussion",
-    "text": "Categorical Variables: Discussion\n\nWhy might Indigenous Peoples want control over how their data is collected, stored, and used? Discuss in small groups.\n\n\n\nPossible Answer:\n\nWhile data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples [@kukutai_2016].\nSuch biases can be harmful to Indigenous Peoples."
+    "text": "Categorical Variables: Discussion\n\nWhy might Indigenous Peoples want control over how their data is collected, stored, and used? Discuss in small groups.\n\n\nPossible Answer:\n\nWhile data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples [@kukutai_2016].\nSuch biases can be harmful to Indigenous Peoples."
   },
   {
     "objectID": "subtopics/categoricaldata/slides/index.html#continue-the-lecture",
@@ -170,60 +170,74 @@
     "text": "References"
   },
   {
+    "objectID": "subtopics/datasov/slides/index.html#learning-outcomes",
+    "href": "subtopics/datasov/slides/index.html#learning-outcomes",
+    "title": "Data Management: Example Slides",
+    "section": "Learning Outcomes:",
+    "text": "Learning Outcomes:\nBy the end of this lecture, students are anticipated to be able to:\n\nDefine data management\nDiscuss how to handle sensitive data\nAcknowledge the importance of treating Indigenous data as a type of sensitive data\nRecall the principals of OCAP®\nIdentify studies where Indigenous Data Sovereighty and OCAP® are (and are not) respected"
+  },
+  {
     "objectID": "subtopics/datasov/slides/index.html#data-management",
     "href": "subtopics/datasov/slides/index.html#data-management",
     "title": "Data Management: Example Slides",
-    "section": "",
-    "text": "Data management refers to the way that data is collected, used, and stored.\nIn many cases, data contains sensitive information, such as personal identifying information (PII) like names, addresses, and birth dates, or sensitive health-related data.\nData involving PII should be:\n\nEncrypted\nOnly accessible by authorized users\nAnonymized (where possible)\nUsed on a “need-to-know” basis"
+    "section": "Data Management",
+    "text": "Data Management\n\n\nData management refers to the way that data is collected, used, and stored.\nIn many cases, data contains sensitive information, such as personal identifying information (PII) like names, addresses, and birth dates, or sensitive health-related data.\n\n\n\n\n\n\n\nDiscussion:\n\n\n\nCan you think of places where you might encounter such data?"
   },
   {
-    "objectID": "subtopics/datasov/slides/index.html#indigenous-data",
-    "href": "subtopics/datasov/slides/index.html#indigenous-data",
+    "objectID": "subtopics/datasov/slides/index.html#data-management-1",
+    "href": "subtopics/datasov/slides/index.html#data-management-1",
     "title": "Data Management: Example Slides",
-    "section": "Indigenous Data",
-    "text": "Indigenous Data\n\nCaution should be exercised when managing data on Indigenous Peoples and their lands.\nTo many, data may be seen through a colonial context as something that, too, has been taken (Rodriguez-Lonebear 2016).\n\nColonization: the act of settling among and establishing control over Indigenous land and Peoples\n\nData on Indigenous Peoples has also been used as a weapon against them to gain control over them by colonial settlers."
+    "section": "Data Management",
+    "text": "Data Management\n\nData involving PII and other sensitive information should be:\n\nEncrypted\nOnly accessible by authorized users\nAnonymized (where possible)\nUsed on a “need-to-know” basis\nUsed appropriately and only for studies the person consented to"
+  },
+  {
+    "objectID": "subtopics/datasov/slides/index.html#data-management-health-data",
+    "href": "subtopics/datasov/slides/index.html#data-management-health-data",
+    "title": "Data Management: Example Slides",
+    "section": "Data Management: Health Data",
+    "text": "Data Management: Health Data\n\nFull News Article Link"
+  },
+  {
+    "objectID": "subtopics/datasov/slides/index.html#data-management-indigenous-data",
+    "href": "subtopics/datasov/slides/index.html#data-management-indigenous-data",
+    "title": "Data Management: Example Slides",
+    "section": "Data Management: Indigenous Data",
+    "text": "Data Management: Indigenous Data\n\nCaution should be exercised when managing data on Indigenous Peoples and their lands.\nTo many, data may be seen through a colonial context as something that, too, has been taken (Rodriguez-Lonebear 2016).\n\n\n\n\n\n\n\nDefinition\n\n\nColonization: the act of settling among and establishing control over Indigenous land and Peoples\n\n\n\n\nData on Indigenous Peoples has also been used as a weapon against them to gain control over them by colonial settlers.\nThis has led to the idea of Indigenous Data Sovereignty."
   },
   {
     "objectID": "subtopics/datasov/slides/index.html#indigenous-data-ids",
     "href": "subtopics/datasov/slides/index.html#indigenous-data-ids",
     "title": "Data Management: Example Slides",
     "section": "Indigenous Data: IDS",
-    "text": "Indigenous Data: IDS\n\nIndigenous Data Sovereignty (IDS):the idea that Indigenous Peoples have the right to own and control how their data are collected, managed and used (Andersen et al. 2025).\n\nStems from Indigenous demands for the rights to their own data, and the harmful misuse of existing Indigenous data (Andersen et al. 2025).\n\nIDS is particularly relevant in the age of “open data”, where issues relating to data consent, use, ownership, and storage have increased in complexity (Kukutai and Taylor 2016)."
+    "text": "Indigenous Data: IDS\n\n\n\n\n\n\nDefinition\n\n\nIndigenous Data Sovereignty (IDS): the idea that Indigenous Peoples have the right to own and control how their data are collected, managed and used (Andersen et al. 2025).\n\n\n\n\nStems from Indigenous demands for the rights to their own data, and the harmful misuse of existing Indigenous data (Andersen et al. 2025).\nIDS is particularly relevant in the age of “open data”, where issues relating to data consent, use, ownership, and storage have increased in complexity (Kukutai and Taylor 2016)."
   },
   {
     "objectID": "subtopics/datasov/slides/index.html#ids-in-first-nations-communities",
     "href": "subtopics/datasov/slides/index.html#ids-in-first-nations-communities",
     "title": "Data Management: Example Slides",
     "section": "IDS in First Nations Communities",
-    "text": "IDS in First Nations Communities\n\nIn Canada, the OCAP® (ownership, control, access, posession) principles are established for First Nations to assert data sovereignty.\n\n\n\nOwnership refers to the relationship of First Nations to their cultural knowledge, data, and information.\nControl affirms that First Nations, their communities, and representative bodies are within their rights to seek control over all aspects of research and information management processes that impact them.\nAccess refers to the fact that First Nations must have access to information and data about themselves and their communities regardless of where it is held.\nPossession is the mechanism by which ownership can be asserted and protected.\n\n\nNote: OCAP® is an expression of First Nations’ jurisdiction over information about their communities. The principals of OCAP® are not an expression of all Indigenous communities."
+    "text": "IDS in First Nations Communities\n\nIn Canada, the OCAP® (ownership, control, access, posession) principles are established for First Nations to assert data sovereignty.\n\n\nOwnership refers to the relationship of First Nations to their cultural knowledge, data, and information.\nControl affirms that First Nations, their communities, and representative bodies are within their rights to seek control over all aspects of research and information management processes that impact them.\nAccess refers to the fact that First Nations must have access to information and data about themselves and their communities regardless of where it is held.\nPossession is the mechanism by which ownership can be asserted and protected.\n\nNote: OCAP® is an expression of First Nations’ jurisdiction over information about their communities. The principals of OCAP® are not an expression of all Indigenous communities."
   },
   {
     "objectID": "subtopics/datasov/slides/index.html#asserting-ocap-with-data-sharing-agreements",
     "href": "subtopics/datasov/slides/index.html#asserting-ocap-with-data-sharing-agreements",
     "title": "Data Management: Example Slides",
     "section": "Asserting OCAP with Data Sharing Agreements",
-    "text": "Asserting OCAP with Data Sharing Agreements\nA data sharing agreement is a formal contract which ensures Indigenous Peoples are prioritized while working in partnership with non-Indigenous organizations (for example, researchers, universities, private organizations, or government).\n\nmay involve a data steward who is responsible for receiving and maintaining the data under the agreement\n\nSome considerations for agreements:\n\n\nWho are the parties involved?\nWhat type of data is being collected/stored/used? Which data will be shared?\nWhat is the scope? Is this a one-time or a continued collection/storage/usage?\nWho is the data steward?\nWhen will the agreement be terminated?"
+    "text": "Asserting OCAP with Data Sharing Agreements\n\n\n\n\n\n\nDefinition\n\n\nData Sharing Agreement: a formal contract which ensures Indigenous Peoples are prioritized while working in partnership with non-Indigenous organizations (for example, researchers, universities, private organizations, or government).\n\n\n\n\nmay involve a data steward who is responsible for receiving and maintaining the data under the agreement\n\nSome considerations for agreements:\n\nWho are the parties involved?\nWhat type of data is being collected/stored/used? Which data will be shared?\nWhat is the scope? Is this a one-time or a continued collection/storage/usage?\nWhen will the agreement be terminated?"
   },
   {
     "objectID": "subtopics/datasov/slides/index.html#data-on-indigenous-peoples-discussion",
     "href": "subtopics/datasov/slides/index.html#data-on-indigenous-peoples-discussion",
     "title": "Data Management: Example Slides",
     "section": "Data on Indigenous Peoples: Discussion",
-    "text": "Data on Indigenous Peoples: Discussion\n\nWhy might Indigenous Peoples want control over how their data is collected, stored, and used? Discuss in small groups.\n\n\n\nPossible Answer:\n\nWhile data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples (Kukutai and Taylor 2016).\nSuch biases can be harmful to Indigenous Peoples."
+    "text": "Data on Indigenous Peoples: Discussion\n\n\n\n\n\n\nDiscussion\n\n\nWhy might Indigenous Peoples want control over how their data is collected, stored, and used? Discuss in a small group\n\n\n\n\n\nPossible Answer:\n\nWhile data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples (Kukutai and Taylor 2016).\nSuch biases can be harmful to Indigenous Peoples."
   },
   {
     "objectID": "subtopics/datasov/slides/index.html#reflection-activity",
     "href": "subtopics/datasov/slides/index.html#reflection-activity",
     "title": "Data Management: Example Slides",
     "section": "Reflection Activity",
-    "text": "Reflection Activity\nRead this article involving members of Pictou Landing First Nation in Nova Scotia, Canada. The Mi’kmaq are the Indigenous Peoples who are native to Nova Scotia, New Brunswick, PEI, Newfoundland, and parts of Quebec and Maine.\nPrepare to discuss the following questions in a small group: - Was the researcher respecting the principles of OCAP throughout this study? - Is it really a big deal if extra “non-invasive” scans were taken?"
-  },
-  {
-    "objectID": "subtopics/datasov/slides/index.html#continue-the-lecture",
-    "href": "subtopics/datasov/slides/index.html#continue-the-lecture",
-    "title": "Data Management: Example Slides",
-    "section": "Continue the Lecture!",
-    "text": "Continue the Lecture!\n(Continue talking about Data Management as you would in a typical offering of your course, connecting back to the principals of IDS where appropriate.)"
+    "text": "Reflection Activity\nRead this article involving members of Pictou Landing First Nation in Nova Scotia, Canada. The Mi’kmaq are the Indigenous Peoples who are native to Nova Scotia, New Brunswick, PEI, Newfoundland, and parts of Quebec and Maine.\nPrepare to discuss the following questions in a small group:\n\nWas the researcher respecting the principles of OCAP throughout this study?\nIs it really a big deal if extra “non-invasive” scans were taken?"
   },
   {
     "objectID": "subtopics/datasov/slides/index.html#references",
@@ -286,12 +300,5 @@
     "crumbs": [
       "Ethics"
     ]
-  },
-  {
-    "objectID": "subtopics/datasov/slides/index.html",
-    "href": "subtopics/datasov/slides/index.html",
-    "title": "Data Management: Example Slides",
-    "section": "",
-    "text": "Data management refers to the way that data is collected, used, and stored.\nIn many cases, data contains sensitive information, such as personal identifying information (PII) like names, addresses, and birth dates, or sensitive health-related data.\nData involving PII should be:\n\nEncrypted\nOnly accessible by authorized users\nAnonymized (where possible)\nUsed on a “need-to-know” basis"
   }
 ]
