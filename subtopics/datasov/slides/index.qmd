@@ -22,6 +22,28 @@ bibliography: ../../../bibliography/ISDSE.bib
 csl: ../../../bibliography/elsevier-vancouver.csl
 ---
 
+## Land Acknowledgement  {.nostretch}
+
+We acknowledging that the land on which we gather is the traditional, ancestral, and unceded territory of the xwməθkwəy̓əm (Musqueam) People.\
+
+![](images/clipboard-3356523468.jpeg){fig-align="center" width="500"}
+
+Throughout this course, we will be weaving Indigenous topics into our "more typical" course material. I myself am a settler and am new to some of these topics. I am grateful for the opportunity to learn and grow with you.
+
+## Classroom Policy
+
+As stated in the syllabus, there is a **zero tolerance policy for disrespectful behaviour in this classroom**.
+
+-   This includes within physical the classroom community (your peers, TAs, instructors, support staff) and online (discussion forums, social media). \
+
+Some sensitive topics will be discussed throughout this course.
+
+-   We are all learners and it is okay to make mistakes.
+
+-   We will offer each other corrections politely, and I ask that you keep an open mind as we all continue to learn in this space.
+
+This classroom is a safe space. [**You are welcome here.**]{.underline}
+
 ## Learning Outcomes:
 
 By the end of this lecture, students are anticipated to be able to:
@@ -64,7 +86,7 @@ By the end of this lecture, students are anticipated to be able to:
 
 [Full News Article Link](https://www.cbc.ca/news/health/health-data-records-pharmaceutical-private-clinics-1.7529955#:~:text=The%20study%2C%20published%20in%20JAMA%20Network%20Open%2C,patient%20data%20flows%20between%20different%20private%20entities.)
 
-## Health Data Management
+## Data Management: Health Data
 
 In most regions, health data is protected by privacy laws:\
 
