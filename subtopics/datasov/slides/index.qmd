@@ -19,6 +19,7 @@ format:
         }
         </style>
 bibliography: ../../../bibliography/ISDSE.bib
+csl: ../../../bibliography/elsevier-vancouver.csl
 ---
 
 ## Learning Outcomes:
@@ -26,7 +27,7 @@ bibliography: ../../../bibliography/ISDSE.bib
 By the end of this lecture, students are anticipated to be able to:
 
 -   Define data management
--   Discuss how to handle sensitive data
+-   Discuss how to handle sensitive data, including personal health data
 -   Acknowledge the importance of treating Indigenous data as a type of sensitive data
 -   Recall the principals of OCAP®
 -   Identify studies where Indigenous Data Sovereighty and OCAP® are (and are not) respected
@@ -63,21 +64,35 @@ By the end of this lecture, students are anticipated to be able to:
 
 [Full News Article Link](https://www.cbc.ca/news/health/health-data-records-pharmaceutical-private-clinics-1.7529955#:~:text=The%20study%2C%20published%20in%20JAMA%20Network%20Open%2C,patient%20data%20flows%20between%20different%20private%20entities.)
 
+## Health Data Management
+
+In most regions, health data is protected by privacy laws:\
+
+-   **Personal Information Protection and Electronic Documents Act (PIPEDA)**: covers all personal data (financial, contact, health) in Canada
+
+-   **Health Insurance Portability and Accountability Act (HIPAA)**: covers only health data in the United States of America
+
+These acts establish standards for data protection and enforce how this sensitivity is to be handled. The previously mentioned strategies for handling personal identifying information (and more!) apply here.
+
 ## Data Management: Indigenous Data
 
--   Caution should be exercised when managing data on Indigenous Peoples and their lands.
+-   Caution should be exercised when collecting, managing, storing, and/or analyzing data on Indigenous Peoples and their lands.
+
+::: callout-note
+## Definition
+
+**Indigenous Peoples:** a collective name for the original peoples of North America and their descendants. The Canadian Constitution recognizes 3 groups of Indigenous peoples: First Nations, Inuit, and Métis. These are 3 distinct peoples with unique histories, languages, cultural practices and spiritual beliefs
+:::
+
+## Data Management: Indigenous Data
 
 -   To many, data may be seen through a **colonial** context as something that, too, has been **taken** [@rodriguez_2016].
 
-    </br>
+::: callout-note
+## Definition
 
-    ::: callout-note
-    ## Definition
-
-    **Colonization**: the act of settling among and establishing control over Indigenous land and Peoples
-    :::
-
-    </br>
+**Colonization**: the act of settling among and establishing control over Indigenous land and Peoples
+:::
 
 -   Data on Indigenous Peoples has also been used as a weapon against them to gain **control** over them by colonial settlers.
 
@@ -111,6 +126,20 @@ By the end of this lecture, students are anticipated to be able to:
 
 *Note: OCAP® is an expression of First Nations' jurisdiction over information about their communities. The principals of OCAP® are not an expression of all Indigenous communities.*
 
+## Data on Indigenous Peoples: Discussion
+
+::: callout-tip
+## Discussion
+
+Why might Indigenous Peoples want control over how their data is collected, stored, and used? Discuss in a small group
+:::
+
+::: incremental
+-   Possible Answer:
+    -   *While data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples* [@kukutai_2016].
+    -   *Such biases can be harmful to Indigenous Peoples*.
+:::
+
 ## Asserting OCAP with Data Sharing Agreements
 
 ::: callout-note
@@ -130,27 +159,30 @@ Some considerations for agreements:
 -   When will the agreement be terminated?
 :::
 
-## Data on Indigenous Peoples: Discussion
+## Reflection Activity
+
+Read [this article](https://globalnews.ca/news/10318288/pictou-landing-first-nation-accuse-radiologists-secret-tests/) involving members of Pictou Landing First Nation in Nova Scotia, Canada.
+
+The Mi'kmaq are the Indigenous Peoples who are native to Nova Scotia, New Brunswick, PEI, Newfoundland, and parts of Quebec and Maine.
 
 ::: callout-tip
 ## Discussion
 
-Why might Indigenous Peoples want control over how their data is collected, stored, and used? Discuss in a small group\
-:::
-
-::: incremental
--   Possible Answer:
-    -   *While data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples* [@kukutai_2016].
-    -   *Such biases can be harmful to Indigenous Peoples*.
-:::
-
-## Reflection Activity
-
-Read [this article](https://globalnews.ca/news/10318288/pictou-landing-first-nation-accuse-radiologists-secret-tests/) involving members of Pictou Landing First Nation in Nova Scotia, Canada. The Mi'kmaq are the Indigenous Peoples who are native to Nova Scotia, New Brunswick, PEI, Newfoundland, and parts of Quebec and Maine.
-
 Prepare to discuss the following questions in a small group:
 
+-   What are some of your initial reactions/feelings to this article?
 -   Was the researcher respecting the principles of OCAP throughout this study?
--   Is it really a big deal if extra "non-invasive" scans were taken?
+-   Is it really a "big deal" if extra scans were taken on select individuals?
+:::
+
+## Wrap up
+
+-   Sensitive data must be handled carefully
+
+    -   Includes, but is not limited to, personal health data
+
+-   Data on and about Indigenous lands and Peoples should be used carefully, respecting the ideas of IDS
+
+-   First Nations of Canada have a set of principals in place to assert IDS
 
 ## References
