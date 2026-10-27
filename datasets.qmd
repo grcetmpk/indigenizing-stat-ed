@@ -1,12 +1,20 @@
 ---
 title: "Data Sets"
+author: Grace Tompkins
 format: html
 bibliography: bibliography/ISDSE.bib
 csl: bibliography/elsevier-vancouver.csl
 ---
 
-## Recommended Data Sets
+Indigenous data is not ours to freely use. 
 
+Much like their land and territories, Indigenous Peoples want control and sovereignty over the data that has (and/or will be) collected on them [@kukutai_2016]. This is particularly relevant in the age of “open data”, where issues relating to data consent, use, ownership, and storage have increased in complexity [@kukutai_2016]. While data can be used in a beneficial way for Indigenous communities, analyses using data on Indigenous Peoples often present with uncontrolled for biases as a result of colonization and a lack of understanding of Indigenous Peoples [@kukutai_2016]. 
+
+For more information on Indigenous Data Sovereignty, [see our page here](https://grcetmpk.github.io/indigenizing-stat-ed/subtopics/datasov/datasov.html)
+
+Some Indigenous data sets are openly available to use. We support the use of the following data sets
+
+-  [BC Indigenous Business Listings](https://diverse-data-hub.github.io/website_files/description_pages/bcindigenousbiz.html): A data set providing a detailed look at Indigenous-owned businesses across British Columbia, Canada.  
 
 
 
@@ -14,15 +22,51 @@ csl: bibliography/elsevier-vancouver.csl
 
 ## Problematic Data Sets
 
+An open data set is not necessarily a good data set. 
+
 We **do not support** the use of the following data sets in teaching or research: 
 
-### "Pima Indians" (Akimel O'odham) Data Set
+- "Pima Indians" Diabetes Data Set (PIDD)
+
+-  Iris
+
+In the following subsections, we describe why we do not recommend using these in teaching or research. 
+
+### "Pima Indians" Diabetes Data Set (PIDD) (Akimel O'odham Data Set)
+
+#### Background
 
 The "Pima Indians" data set has been openly provided by the [UCI Machine Learning Repository](https://archive.ics.uci.edu/) and is accessible through code-based platforms like [Kaggle](https://www.kaggle.com/) and various R packages ([mlbench](https://cran.r-project.org/web/packages/mlbench/index.html), [faraway](https://cran.r-project.org/web/packages/faraway/index.html), and [pdp](https://cran.r-project.org/web/packages/pdp/index.html), to name a few). It is a data set that is commonly used to demonstrate the use of predictive modelling for diabetes mellitus. The use of this data set is prevalent in both teaching and research. 
 
-The Indigenous Peoples whose data are recorded in this data set refer to themselves as **Akimel O'odham**, which translates to *River People* [@radin2017digital]. They reside in the Gila River Indian Community outisde of Phoenix, Arizona. The ancestors of the Akimel O'odham, HuHuKam, are known for their agricultural innovations [@radin2017digital]. They drew upon the Gila River and created irrigation infrastructure to support their agriculture [@radin2017digital]. This community saw a lot of hardship in the 1800s, including disruptions due to the California gold rush and the construction of dams and other structures from non-Native farmers that greatly impacted water sources for the Indigenous Peoples along the Gila River [@radin2017digital]. 
+The Indigenous Peoples whose data are recorded in this data set refer to themselves as **Akimel O'odham**, which translates to *River People* [@radin2017digital]. They reside in the Gila River Indian Community outside of Phoenix, Arizona. Their ancestors, HuHuKam, are known for their agricultural innovations [@radin2017digital]. They drew upon the Gila River and created irrigation infrastructure to support their agriculture [@dejong2009stealing]. This community saw a lot of hardship in the 1800s, including disruptions due to the California gold rush and the construction of dams and other structures from non-Native farmers that greatly impacted water sources for the Indigenous Peoples along the Gila River [@radin2017digital]. 
 
-In 1901, anthropologist Frank Russell came to the Gila River for a study. Posthumous, his work entitled "The Pima" was published. The community members did not have control of the cultural descriptions and verbiage used in Russell's work [@radin2017digital]. He also noted in a letter to his boss in 1902 that "these people are starving so that I am getting specimens and information that would otherwise not be attainable" [@radin2017digital]. The community experienced mass famine and starvation, which caused the American government to supply canned and processed food assistance between 1908 and 1955. Prior to this food assistance, only one case of diabetes was reported in the population [@radin2017digital]. Then, in 1990, the Gila River Community had "the highest recorded prevalence and incidence of non-insulin dependent diabetes of any geographically defined population" [@radin2017digital]. Community members have noted that the rise of obesity and Type 2 diabetes coincides with their loss of ability to farm their land and the change of diet introduced by the American government [@radin2017digital]. 
+In 1901, anthropologist Frank Russell came to the Gila River and spent a significant amount of time living among and studying the Akimel O'odham people. In 1908, his work entitled "The Pima Indians" was published posthumously. While some still regard much of this work to be foundational, it is widely considered to be problematic through its Euro-American, colonial perspectives on Indigenous life.
 
-Prior to the rise of modern genomics and epidemiology, the data collected on the Akimel O'odham were a valuable resource for diabetes research and knowledge [@radin2017digital]. This data were eventually translated into digital forms, which enabled it to be used more widely in research. This included research that was not related to diabetes [@radin2017digital]. 
+The Gila River community members did not have control of the cultural descriptions and verbiage used in Russell's work [@radin2017digital]. Russell noted in a letter to his boss in 1902 that "these people are starving so that I am getting specimens and information that would otherwise not be attainable" [@radin2017digital]. The community experienced mass famine and starvation, which caused the American government to supply canned and processed food assistance between 1908 and 1955. Prior to this food assistance, only one case of diabetes was reported in the population [@radin2017digital]. Then, in 1990, the Gila River Community had "the highest recorded prevalence and incidence of non-insulin dependent diabetes of any geographically defined population" [@Badariah]. Community members have noted that the rise of obesity and Type 2 diabetes coincides with their loss of ability to farm their land and the change of diet introduced by the American government [@radin2017digital]. 
 
+Prior to the rise of modern genomics and epidemiology, the data collected on the Akimel O'odham were a valuable resource for diabetes research and knowledge [@radin2017digital]. This data were eventually translated into digital forms, which enabled it to be used more widely in research. This included research that was not related to diabetes [@radin2017digital]. Akimel O’odham lost control over its data. 
+
+Joanna Radin, author of *"Digital Natives": How Medical and Indigenous Histories Matter for Big Data* writes
+
+> "As [Akimel O’odham] data moved off the reservation, it became available for new and unexpected uses in basic informatics research. As a result, Akimel O’odham lost “direct control over intervention in and treatment of serious diseases affecting their populations,” as Richard Narcia, Lieutenant Governor of the Gila River Community, testified before Congress... Today, Akimel O’odham, in part as a result of their long-term involvement in bio- medical research, are deeply skeptical about continuing to participate in additional forms of research, including that which is undertaken by historians [@radin2017digital] 
+
+
+I have personally seen this data set multiple times throughout my statistics education. I believe it was the first data set that I ever did a small analysis on for a class project in the third year of my undergraduate degree. I remember questioning whether or not the data set name was "politically correct" for its use of the term "Indian". I had never thought about the "Pima" piece, or how easily I was accessing Indigenous data.
+
+It wasn't until a conversation with [Rachel Lynne Harrison (Assistant Teaching Professor, Department of Computer Science at Baylor University)](https://www.ecs.baylor.edu/person/rachel-harrison-phd) where I became aware of its origins. Rachel sent me the *"Digital Natives": How Medical and Indigenous Histories Matter for Big Data* paper and said "I'm going to put some thought into *palmerpenguins*-ing [the Pima Indians data set]...." referring to the replacement of the iris data set (a popular multi-class data set used in teaching and research which has ties to eugenics and scientific racism) to the palmerpenguins data set (see below). 
+
+Thank you, Rachel, for sharing this paper on the Akimel O'odham data set with me. 
+
+
+### Iris
+
+The iris data set has been used widely to teach and benchmark machine learning models. The iris data set has a sample of 50 different flowers for each of the three different types (sentosa, versicolor, and virginica), each containing numeric measurements on the sepal and petal lengths and widths. This data set is often used to demonstrate multi-class prediction for the flower type using the numeric data. 
+
+The iris data set was first published by Ronald Fisher in the *Annals of Eugenics*. Eugenics is a **scientifically inaccurate** field of thought that aims to improve the genetic quality of a human population through selective breeding and social control [@nhgri2022eugenics]. Eugenics is deeply linked to colonialism, as both are systems of control, exploitation, and reinforced racial hierarchies [@nhgri2022eugenics]. Although the flower data itself may seem innocent, its association to Ronald Fisher, scientific racism, and the general field of eugenics is problematic.
+
+Many consider the [palmerpenguins data set](https://allisonhorst.github.io/palmerpenguins/) to be a suitable alternative to iris. There are three penguin species one can use for multi-class prediction, and various numeric and categorical variables to use as predictors. There are no (known) ties to Ronald Fisher or eugenics. Plus, penguins are cute. 
+
+
+The iris data set is another one that I've seen time and time again throughout courses I've both taken and taught. Again, you can call me naive, but I did not know about the issues with Ronald Fisher/iris until **this year**! I knew the name Fisher from my statistical education (Fisher inequality, Fisher's exact test, F-test, F-distribution...) but I never was taught, nor did I ever have the urge to read about, about his life or associations. Thinking back, this would have been a really interesting thing to learn in the classroom. Traditional statistics courses seldom give students time to think critically about where the data come from, and what they are associated with. 
+
+I started to see the palmerpenguins data set come up more often when I started teaching at UBC. I really just thought it was cute and simple enough to integrate into lectures! I now realize the intention behind it. Goodbye forever, iris!

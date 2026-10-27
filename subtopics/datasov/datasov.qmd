@@ -1,5 +1,6 @@
 ---
 title: "Indigenous Data Sovereignty"
+author: Grace Tompkins
 format: 
   html:
     css: ../../styles.css

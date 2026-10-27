@@ -1,5 +1,6 @@
 ---
 title: "Categorical Variables: Race and Ethnicity"
+author: Grace Tompkins
 format: 
   html:
     css: ../../styles.css

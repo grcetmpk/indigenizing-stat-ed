@@ -13,7 +13,7 @@ website:
         text: Classroom Climate
       - sidebar:topics
       - sidebar:subtopics
-#      - datasets.qmd
+      - datasets.qmd
       - glossary/glossary.qmd
       - contributors.qmd
       - guestbook.qmd
